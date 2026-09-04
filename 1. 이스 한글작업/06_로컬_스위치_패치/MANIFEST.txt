@@ -5,8 +5,9 @@ Included:
 - romfs/text/item.tbb
   Korean item names and descriptions, adapted to the Switch TBB structure.
 - romfs/text/quest.tbb
-  Korean translations for quests GF_QUEST_101 through GF_QUEST_105, with 83
-  fields applied within the original Switch CP949 byte budgets.
+  Korean translations for quests GF_QUEST_101 through GF_QUEST_105, plus
+  GF_QUEST_107 and GF_QUEST_109, with 98 fields applied within the original
+  Switch CP949 byte budgets.
 
 Excluded intentionally:
 - PC .itp/.itf images and fonts: incompatible Switch format.
