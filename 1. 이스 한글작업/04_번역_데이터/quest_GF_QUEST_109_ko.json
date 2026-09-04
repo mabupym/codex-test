@@ -1,0 +1,18 @@
+{
+  "quest_id": "GF_QUEST_109",
+  "source_language": "Japanese",
+  "target_language": "Korean",
+  "translation_method": "WebGPT translation using existing Switch byte budgets",
+  "translations": [
+    {"row":235,"field":16,"budget_cp949_bytes":6,"source":"ルルカ","translated":"룰루카"},
+    {"row":235,"field":18,"budget_cp949_bytes":11,"source":"闇駆りの大蝙蝠","translated":"어둠박쥐"},
+    {"row":235,"field":19,"budget_cp949_bytes":11,"source":"闇駆りの大蝙蝠","translated":"어둠박쥐"},
+    {"row":236,"field":13,"budget_cp949_bytes":38,"source":"　　キャスニア鉱山の最奥に、危険な大型の獣","translated":"　　카스니아 광산 깊은 곳에 짐승"},
+    {"row":237,"field":12,"budget_cp949_bytes":43,"source":"　　『オルラバディ』が出没するとのことです。","translated":"　　『올라바디』가 나타난다고 합니다."},
+    {"row":239,"field":10,"budget_cp949_bytes":36,"source":"　　どなたか、戦闘に自信のある方による","translated":"　　전투에 자신 있는 분께서"},
+    {"row":240,"field":9,"budget_cp949_bytes":24,"source":"　　討伐をお願いします。","translated":"　　토벌해 주세요."},
+    {"row":241,"field":8,"budget_cp949_bytes":54,"source":"　　　　　　　　　　　　 ――宿酒場ウェイトレス・ルルカ","translated":"　　　　　　　　　　　　 --여관 주점 웨이트리스 룰루카"},
+    {"row":243,"field":7,"budget_cp949_bytes":55,"source":"　　★オルラバディを倒した！　依頼主の元へ報告に行こう。","translated":"　　★올라바디를 쓰러뜨렸다! 의뢰인에게 보고하자."},
+    {"row":244,"field":6,"budget_cp949_bytes":48,"source":"　　★ルルカさんに報告を行い、報酬を受け取った！","translated":"　　★룰루카 씨에게 보고하고 보상을 받았다!"}
+  ]
+}

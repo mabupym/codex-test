@@ -1,0 +1,21 @@
+{
+  "quest_id": "GF_QUEST_102",
+  "source_language": "Japanese",
+  "target_language": "Korean",
+  "translation_method": "WebGPT translation using existing Switch byte budgets",
+  "translations": [
+    {"row":75,"field":10,"budget_cp949_bytes":10,"source":"兵士ワレス","translated":"와레스"},
+    {"row":75,"field":11,"budget_cp949_bytes":20,"source":"ビターなポーション×３","translated":"비터 포션×3"},
+    {"row":75,"field":12,"budget_cp949_bytes":16,"source":"ハニーなポーション","translated":"허니 포션"},
+    {"row":75,"field":13,"budget_cp949_bytes":16,"source":"ハニーなポーション","translated":"허니 포션"},
+    {"row":76,"field":7,"budget_cp949_bytes":35,"source":"　　ちょっとした、お使いを頼みたい。","translated":"　　간단한 심부름을 부탁하고 싶다."},
+    {"row":77,"field":6,"budget_cp949_bytes":29,"source":"　　まずは話を聞きに来てくれ。","translated":"　　이야기를 들으러 와라."},
+    {"row":79,"field":4,"budget_cp949_bytes":30,"source":"　　昼間は大抵、セルセタ総督府の","translated":"　　낮에는 보통 셀세타 총독부"},
+    {"row":80,"field":3,"budget_cp949_bytes":28,"source":"　　食堂にいるからよろしく。","translated":"　　식당에 있다."},
+    {"row":81,"field":2,"budget_cp949_bytes":63,"source":"　　#911c【期限付き】#000c　　　　　　　　　　　――駐留軍兵士・ワレス","translated":"　　#911c[기간]#000c　　　　　　　　　　　--주둔군 병사 와레스"},
+    {"row":83,"field":1,"budget_cp949_bytes":46,"source":"　　★駐留軍のワレスさんから依頼の説明を受ける。","translated":"　　★주둔군 와레스 씨에게 의뢰 설명을 들었다."},
+    {"row":84,"field":0,"budget_cp949_bytes":54,"source":"　　　ハニーポーションを３個、買ってきて欲しいとのことで","translated":"　　　허니 포션 3개를 사다 달라는 부탁이었다."},
+    {"row":84,"field":19,"budget_cp949_bytes":44,"source":"　　　代金として傷んだ骨を１２０個受け取る。","translated":"　　　대금으로 상한 뼈 120개를 받았다."},
+    {"row":85,"field":18,"budget_cp949_bytes":55,"source":"　　★ワレスさんにハニーポーションを３個渡し、依頼を達成！","translated":"　　★와레스 씨에게 허니 포션 3개를 건네 의뢰 달성!"}
+  ]
+}

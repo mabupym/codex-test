@@ -1,0 +1,29 @@
+{
+  "quest_id": "GF_QUEST_101",
+  "source_language": "Japanese",
+  "target_language": "Korean",
+  "translation_method": "WebGPT translation using existing Switch byte budgets",
+  "translations": [
+    {"row": 52, "field": 12, "budget_cp949_bytes": 7, "source": "ムーチョ", "translated": "무초"},
+    {"row": 52, "field": 14, "budget_cp949_bytes": 18, "source": "ファバロスの乳搾り", "translated": "파바로스 젖짜기"},
+    {"row": 52, "field": 15, "budget_cp949_bytes": 18, "source": "ファバロスの乳搾り", "translated": "파바로스 젖짜기"},
+    {"row": 53, "field": 9, "budget_cp949_bytes": 38, "source": "　　この貼り紙を見ている、そこの君――", "translated": "　　이 글을 보고 있는 그대여--"},
+    {"row": 54, "field": 8, "budget_cp949_bytes": 36, "source": "　　スペシャルなドリンクを作るための", "translated": "　　특별한 음료를 만들기 위한"},
+    {"row": 55, "field": 7, "budget_cp949_bytes": 25, "source": "　　手伝いをしてみないか？", "translated": "　　도와주지 않겠나?"},
+    {"row": 57, "field": 5, "budget_cp949_bytes": 35, "source": "　　詳しくは、宿酒場カウンターまで。", "translated": "　　자세한 내용은 여관 주점으로."},
+    {"row": 58, "field": 4, "budget_cp949_bytes": 62, "source": "　　#911c【期限付き】#000c　　　　　　　　　――宿酒場店主・ムーチョ", "translated": "　　#911c[기간]#000c　　　　　　　　　--주점 주인 무초"},
+    {"row": 60, "field": 3, "budget_cp949_bytes": 52, "source": "　　★ムーチョさんの依頼で、平原にいるファバロスという", "translated": "　　★무초 씨의 의뢰로, 평원에 있는 파바로스라는"},
+    {"row": 61, "field": 2, "budget_cp949_bytes": 29, "source": "　　　獣の乳搾りを行うことに。", "translated": "　　　젖을 짜기로 했다."},
+    {"row": 62, "field": 1, "budget_cp949_bytes": 57, "source": "　　★ちなみにファバロスのメスは非常に警戒心が強らしく、", "translated": "　　★참고로 파바로스 암컷은 경계심이 아주 강하다고 한다,"},
+    {"row": 63, "field": 0, "budget_cp949_bytes": 58, "source": "　　　こちらの姿が見つかるとすぐに逃げられてしまうそうだ。", "translated": "　　　우리 모습을 보면 곧바로 달아난다고 한다."},
+    {"row": 63, "field": 19, "budget_cp949_bytes": 42, "source": "　　★ファバロス（メス）に近付いたところ、", "translated": "　　★파바로스(암컷)에게 다가가자,"},
+    {"row": 64, "field": 18, "budget_cp949_bytes": 38, "source": "　　　気配に気付かれ逃げられてしまった。", "translated": "　　　기척을 들켜 달아나 버렸다."},
+    {"row": 65, "field": 17, "budget_cp949_bytes": 45, "source": "　　　次こそは慎重に、背後から近付いてみよう。", "translated": "　　　다음에는 조심해서 뒤에서 다가가 보자."},
+    {"row": 66, "field": 16, "budget_cp949_bytes": 40, "source": "　　★ファバロスミルクを無事に入手した。", "translated": "　　★우유를 무사히 얻었다."},
+    {"row": 67, "field": 15, "budget_cp949_bytes": 36, "source": "　　　ムーチョさんの元に届けに行こう。", "translated": "　　　무초 씨에게 가져다주자."},
+    {"row": 68, "field": 14, "budget_cp949_bytes": 45, "source": "　　★ファバロスミルクをムーチョさんに手渡し、", "translated": "　　★파바로스 우유를 무초 씨에게 건네고,"},
+    {"row": 69, "field": 13, "budget_cp949_bytes": 51, "source": "　　　その場で特製のミルクセーキをごちそうになった。", "translated": "　　　그 자리에서 특제 밀크셰이크를 대접받았다."},
+    {"row": 70, "field": 12, "budget_cp949_bytes": 40, "source": "　　★その味は……かなり個性的だったが、", "translated": "　　★그 맛은…… 꽤 독특했지만,"},
+    {"row": 71, "field": 11, "budget_cp949_bytes": 37, "source": "　　　とにかく依頼は無事に達成できた。", "translated": "　　　어쨌든 의뢰는 무사히 끝냈다."}
+  ]
+}

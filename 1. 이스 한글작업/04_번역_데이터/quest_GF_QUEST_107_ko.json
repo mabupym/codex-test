@@ -1,0 +1,16 @@
+{
+  "quest_id": "GF_QUEST_107",
+  "source_language": "Japanese",
+  "target_language": "Korean",
+  "translation_method": "WebGPT translation using existing Switch byte budgets",
+  "translations": [
+    {"row":183,"field":7,"budget_cp949_bytes":7,"source":"ルシール","translated":"루시르"},
+    {"row":183,"field":9,"budget_cp949_bytes":13,"source":"酔いどれの介抱","translated":"술꾼 돌보기"},
+    {"row":183,"field":10,"budget_cp949_bytes":13,"source":"酔いどれの介抱","translated":"술꾼 돌보기"},
+    {"row":184,"field":4,"budget_cp949_bytes":46,"source":"　　ピッカードの二日酔いに効くお薬を探しています。","translated":"　　피카드 숙취에 듣는 약을 찾고 있습니다."},
+    {"row":186,"field":2,"budget_cp949_bytes":46,"source":"　　何かいいお薬があったら、譲ってくれませんか？","translated":"　　좋은 약이 있다면 나눠 주시겠어요?"},
+    {"row":187,"field":1,"budget_cp949_bytes":34,"source":"　　交易所脇の路地で待っています。","translated":"　　교역소 옆에서 기다립니다."},
+    {"row":188,"field":19,"budget_cp949_bytes":53,"source":"　　　　　　　　　　　　　　――面倒見の良いルシール","translated":"　　　　　　　　　　　　　　--마음씨 좋은 루시르"},
+    {"row":190,"field":18,"budget_cp949_bytes":55,"source":"　　★ルシールさんに望みの品を手渡し、報酬を受け取った！","translated":"　　★루시르 씨에게 약을 건네고 보상을 받았다!"}
+  ]
+}
