@@ -1,0 +1,18 @@
+{
+  "quest_id": "GF_QUEST_104",
+  "source_language": "Japanese",
+  "target_language": "Korean",
+  "translation_method": "WebGPT translation using existing Switch byte budgets",
+  "translations": [
+    {"row":109,"field":18,"budget_cp949_bytes":6,"source":"ルルカ","translated":"룰루카"},
+    {"row":110,"field":0,"budget_cp949_bytes":12,"source":"平原の巨大熊","translated":"거대곰"},
+    {"row":110,"field":1,"budget_cp949_bytes":12,"source":"平原の巨大熊","translated":"거대곰"},
+    {"row":110,"field":15,"budget_cp949_bytes":34,"source":"　　樹海手前の平原に、危険な大型の獣","translated":"　　수해 앞 평원에 위험한 짐승"},
+    {"row":111,"field":14,"budget_cp949_bytes":41,"source":"　　『ラングリズ』が出没するとのことです。","translated":"　　『랑그리즈』가 나타난다고 합니다."},
+    {"row":113,"field":12,"budget_cp949_bytes":36,"source":"　　どなたか、戦闘に自信のある方による","translated":"　　전투에 자신 있는 분께서"},
+    {"row":114,"field":11,"budget_cp949_bytes":24,"source":"　　討伐をお願いします。","translated":"　　토벌해 주세요."},
+    {"row":115,"field":10,"budget_cp949_bytes":54,"source":"　　　　　　　　　　　　 ――宿酒場ウェイトレス・ルルカ","translated":"　　　　　　　　　　　　 --여관 주점 웨이트리스 룰루카"},
+    {"row":117,"field":9,"budget_cp949_bytes":53,"source":"　　★ラングリズを倒した！　依頼主の元へ報告に行こう。","translated":"　　★랑그리즈를 쓰러뜨렸다! 의뢰인에게 보고하자."},
+    {"row":118,"field":8,"budget_cp949_bytes":48,"source":"　　★ルルカさんに報告を行い、報酬を受け取った！","translated":"　　★룰루카 씨에게 보고하고 보상을 받았다!"}
+  ]
+}

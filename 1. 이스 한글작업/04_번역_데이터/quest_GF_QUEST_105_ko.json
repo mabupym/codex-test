@@ -1,0 +1,28 @@
+{
+  "quest_id": "GF_QUEST_105",
+  "source_language": "Japanese",
+  "target_language": "Korean",
+  "translation_method": "WebGPT translation using existing Switch byte budgets",
+  "translations": [
+    {"row":122,"field":7,"budget_cp949_bytes":16,"source":"エヴァン＆ライル","translated":"에반＆라일"},
+    {"row":122,"field":8,"budget_cp949_bytes":8,"source":"おたから","translated":"보물"},
+    {"row":122,"field":9,"budget_cp949_bytes":17,"source":"ちょうせんじょー！","translated":"도전장!"},
+    {"row":122,"field":10,"budget_cp949_bytes":17,"source":"ちょうせんじょー！","translated":"도전장!"},
+    {"row":123,"field":4,"budget_cp949_bytes":40,"source":"　　樹海に行った人間なら、だれでもいい。","translated":"　　수해에 간 사람이라면 누구든 좋아."},
+    {"row":124,"field":3,"budget_cp949_bytes":20,"source":"　　これを見てたら,","translated":"　　이걸 보면,"},
+    {"row":125,"field":2,"budget_cp949_bytes":35,"source":"　　やどさかば前のひろばに来やがれ！","translated":"　　여관 주점 앞 광장으로 와라!"},
+    {"row":127,"field":19,"budget_cp949_bytes":64,"source":"　　#911c【期限付き】#000c　　　　　　　　　　　　――エヴァン＆ライル","translated":"　　#911c[기간]#000c　　　　　　　　　　　　--에반＆라일"},
+    {"row":129,"field":18,"budget_cp949_bytes":54,"source":"　　★街のこどもたちの挑戦を受け、お宝探しをすることに。","translated":"　　★아이들의 도전을 받아 보물찾기를 하기로 했다."},
+    {"row":130,"field":17,"budget_cp949_bytes":44,"source":"　　　ヒントが欲しい場合は、ライル君に聞けば","translated":"　　　힌트가 필요하면 라일에게 물어보면"},
+    {"row":131,"field":16,"budget_cp949_bytes":25,"source":"　　　教えてくれるらしい。","translated":"　　　알려준다고 한다."},
+    {"row":132,"field":15,"budget_cp949_bytes":31,"source":"　　★宿酒場で金鉱石を見つけた！","translated":"　　★주점에서 금광석 발견!"},
+    {"row":133,"field":14,"budget_cp949_bytes":32,"source":"　　★鉱山長宅で金鉱石を見つけた！","translated":"　　★광산장 집에서 금광석 발견!"},
+    {"row":134,"field":13,"budget_cp949_bytes":31,"source":"　　★馬小屋で金鉱石を見つけた！","translated":"　　★마구간에서 금광석 발견!"},
+    {"row":135,"field":12,"budget_cp949_bytes":31,"source":"　　★裏通りで金鉱石を見つけた！","translated":"　　★뒷골목에서 금광석 발견!"},
+    {"row":136,"field":11,"budget_cp949_bytes":38,"source":"　　★総督府のテントで金鉱石を見つけた！","translated":"　　★총독부에서 금광석 발견!"},
+    {"row":137,"field":10,"budget_cp949_bytes":53,"source":"　　★こどもたちには悪いが、ギブアップさせてもらう……","translated":"　　★아이들에겐 미안하지만 포기하겠다……"},
+    {"row":138,"field":9,"budget_cp949_bytes":20,"source":"　　　何だか悔しい。","translated":"　　　왠지 분하다."},
+    {"row":139,"field":8,"budget_cp949_bytes":29,"source":"　　★隠された５つのお宝を発見。","translated":"　　★보물 5개 발견."},
+    {"row":140,"field":7,"budget_cp949_bytes":43,"source":"　　　こどもたちの期待に応えることができた！","translated":"　　　아이들의 기대에 부응했다!"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "quest_id": "GF_QUEST_103",
+  "source_language": "Japanese",
+  "target_language": "Korean",
+  "translation_method": "WebGPT translation using existing Switch byte budgets",
+  "translations": [
+    {"row":89,"field":17,"budget_cp949_bytes":13,"source":"ゴールドスミス","translated":"골드스미스"},
+    {"row":89,"field":19,"budget_cp949_bytes":14,"source":"鉄鉱石の買い取り","translated":"철광석 매입"},
+    {"row":90,"field":0,"budget_cp949_bytes":14,"source":"鉄鉱石の買い取り","translated":"철광석 매입"},
+    {"row":90,"field":14,"budget_cp949_bytes":44,"source":"　　『鉄鉱石』を２０個、まとめて買い取りたい。","translated":"　　『철광석』 20개를 매입하고 싶다."},
+    {"row":92,"field":12,"budget_cp949_bytes":32,"source":"　　取り引きの際は、交易所まで。","translated":"　　거래할 때는 교역소로 와라."},
+    {"row":95,"field":9,"budget_cp949_bytes":52,"source":"　　　　　　　　　　   ――ゴールドスミス交易・ゴールドスミス","translated":"　　　　　　　　　　   --골드스미스 교역소"},
+    {"row":97,"field":8,"budget_cp949_bytes":51,"source":"　　★買い取り額について調子に乗って交渉を続けていると","translated":"　　★매입 가격을 신나게 계속 흥정하다가"},
+    {"row":98,"field":7,"budget_cp949_bytes":57,"source":"　　　限度を超えたらしく、取り引き自体が流れてしまった……","translated":"　　　한도를 넘었는지 거래 자체가 무산됐다……"},
+    {"row":99,"field":6,"budget_cp949_bytes":32,"source":"　　★鉄鉱石を売却、依頼を達成した！","translated":"　　★철광석을 팔아 의뢰 달성!"},
+    {"row":100,"field":5,"budget_cp949_bytes":47,"source":"　　★買い取り価格について食い下がってみたところ","translated":"　　★매입 가격을 계속 밀어붙여 보니"},
+    {"row":101,"field":4,"budget_cp949_bytes":39,"source":"　　　どうやら交渉の余地があったらしく、","translated":"　　　아직 흥정할 여지가 있었는지,"},
+    {"row":102,"field":3,"budget_cp949_bytes":42,"source":"　　　元より高い値段で買い取ってもらった！","translated":"　　　원래보다 비싸게 매입해 주었다!"},
+    {"row":103,"field":2,"budget_cp949_bytes":47,"source":"　　★買い取り価格について食い下がってみたところ","translated":"　　★매입 가격을 계속 밀어붙여 보니"},
+    {"row":104,"field":1,"budget_cp949_bytes":39,"source":"　　　どうやら交渉の余地があったらしく、","translated":"　　　아직 흥정할 여지가 있었는지,"},
+    {"row":105,"field":0,"budget_cp949_bytes":48,"source":"　　　元よりかなり高い値段で買い取ってもらった！","translated":"　　　원래보다 훨씬 비싸게 매입해 주었다!"},
+    {"row":105,"field":19,"budget_cp949_bytes":42,"source":"　　　自分には商人の才能があるのかも……？","translated":"　　　나에게 상인 재능이 있을지도……?"}
+  ]
+}
