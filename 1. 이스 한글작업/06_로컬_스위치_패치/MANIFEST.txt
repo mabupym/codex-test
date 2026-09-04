@@ -1,0 +1,19 @@
+Ys: Memories of Celceta Switch Korean Local Patch
+Title ID: 0100D370219DA000
+
+Included:
+- romfs/text/item.tbb
+  Korean item names and descriptions, adapted to the Switch TBB structure.
+- romfs/text/quest.tbb
+  Korean translations for quests GF_QUEST_101 and GF_QUEST_102, with 34
+  fields applied within the original Switch CP949 byte budgets.
+
+Excluded intentionally:
+- PC .itp/.itf images and fonts: incompatible Switch format.
+- PC executables and runtime patch files.
+- Unverified scripts and tables.
+
+Install target:
+SD:/atmosphere/contents/0100D370219DA000/romfs/text/item.tbb
+
+This package is local-only. No GitHub upload or remote modification was performed.

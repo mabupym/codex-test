@@ -1,0 +1,9992 @@
+[
+ {
+  "idx": 1,
+  "no": "1",
+  "name": "ショートソード",
+  "name_budget_bytes": 14,
+  "efx": "STR 9",
+  "efx_budget_bytes": 5,
+  "comment": "兵士の訓練にも使われる、扱いやすい片手剣。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 2,
+  "no": "2",
+  "name": "ロングセイバー",
+  "name_budget_bytes": 14,
+  "efx": "STR 28",
+  "efx_budget_bytes": 6,
+  "comment": "重量感のある長い刀身が特徴の、鋼鉄製の剣。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 3,
+  "no": "3",
+  "name": "スラッシュソード",
+  "name_budget_bytes": 16,
+  "efx": "STR 44 /「毒」5%",
+  "efx_budget_bytes": 16,
+  "comment": "狩りのために作られた、滑らかに獲物を切り裂く幅広の剣。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 4,
+  "no": "4",
+  "name": "ブロードエッジ",
+  "name_budget_bytes": 14,
+  "efx": "STR 50 /「麻痺」5%",
+  "efx_budget_bytes": 18,
+  "comment": "水中での抵抗を減らすよう設計された片手剣。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 5,
+  "no": "5",
+  "name": "スラッシュソード改",
+  "name_budget_bytes": 18,
+  "efx": "STR 63 /「毒」5%",
+  "efx_budget_bytes": 16,
+  "comment": "熟練の狩人の扱いにも耐える、改良された狩猟用の剣。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 6,
+  "no": "6",
+  "name": "ブロードエッジ改",
+  "name_budget_bytes": 16,
+  "efx": "STR 67 /「麻痺」5%",
+  "efx_budget_bytes": 18,
+  "comment": "獰猛な大型淡水魚をも仕留める、鮫の姿を象った片手剣。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 7,
+  "no": "7",
+  "name": "クレイモア",
+  "name_budget_bytes": 10,
+  "efx": "STR 102",
+  "efx_budget_bytes": 7,
+  "comment": "扱いは難しいが絶大な切れ味を誇る、騎士の大剣。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 8,
+  "no": "8",
+  "name": "ソウルバイター",
+  "name_budget_bytes": 14,
+  "efx": "STR 146",
+  "efx_budget_bytes": 7,
+  "comment": "魔道の力を込めた特殊合金によって精錬された剣。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 9,
+  "no": "9",
+  "name": "ルーンブレイド",
+  "name_budget_bytes": 14,
+  "efx": "STR 201",
+  "efx_budget_bytes": 7,
+  "comment": "聖なる気を宿した、鋭さと軽さを併せ持つ神秘的な剣。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 10,
+  "no": "10",
+  "name": "アポカリプス",
+  "name_budget_bytes": 12,
+  "efx": "STR 244",
+  "efx_budget_bytes": 7,
+  "comment": "数多の剣士たちの歴史をその身に刻む、無二の霊剣。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 11,
+  "no": "11",
+  "name": "王剣アイアス",
+  "name_budget_bytes": 12,
+  "efx": "STR 266",
+  "efx_budget_bytes": 7,
+  "comment": "特別な鉱石から甦った、全てを断絶する力を放つ古の剣。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 12,
+  "no": "12",
+  "name": "スーパー灼熱ソード",
+  "name_budget_bytes": 18,
+  "efx": "STR 73 /「燃焼」30%",
+  "efx_budget_bytes": 19,
+  "comment": "若き鍛冶屋が試作した剣。自らが燃えてしまうほど熱い。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 13,
+  "no": "13",
+  "name": "フレイムソード",
+  "name_budget_bytes": 14,
+  "efx": "STR 74 /「燃焼」30%",
+  "efx_budget_bytes": 19,
+  "comment": "若き鍛冶屋が鍛えた、斬りつけた敵を燃え上がらせる剣。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 14,
+  "no": "14",
+  "name": "----剣----",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 15,
+  "no": "15",
+  "name": "----剣----",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 16,
+  "no": "16",
+  "name": "----剣----",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 17,
+  "no": "17",
+  "name": "----剣----",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 18,
+  "no": "18",
+  "name": "----剣----",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 19,
+  "no": "19",
+  "name": "----剣----",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 20,
+  "no": "20",
+  "name": "----剣----",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 21,
+  "no": "21",
+  "name": "ブラスナックル",
+  "name_budget_bytes": 14,
+  "efx": "STR 8",
+  "efx_budget_bytes": 5,
+  "comment": "拳を真鍮製の厚い板で包んで、打撃力を増すナックル。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 22,
+  "no": "22",
+  "name": "ガントレット",
+  "name_budget_bytes": 12,
+  "efx": "STR 26",
+  "efx_budget_bytes": 6,
+  "comment": "拳を覆う鋼鉄製の籠手。近接戦闘にも使用できる。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 23,
+  "no": "23",
+  "name": "イーグルヘッド",
+  "name_budget_bytes": 14,
+  "efx": "STR 41 /「毒」5%",
+  "efx_budget_bytes": 16,
+  "comment": "獲物に一点集中の打撃を与える、鷲の頭を象ったナックル。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 24,
+  "no": "24",
+  "name": "シャークフィン",
+  "name_budget_bytes": 14,
+  "efx": "STR 46 /「麻痺」5%",
+  "efx_budget_bytes": 18,
+  "comment": "水辺の魔物に対するため聖獣の爪を模した拳具。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 25,
+  "no": "25",
+  "name": "イーグルヘッド改",
+  "name_budget_bytes": 16,
+  "efx": "STR 59 /「毒」5%",
+  "efx_budget_bytes": 16,
+  "comment": "樹海の獰猛な獣と渡り合えるよう改良を重ねたナックル。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 26,
+  "no": "26",
+  "name": "シャークフィン改",
+  "name_budget_bytes": 16,
+  "efx": "STR 63 /「麻痺」5%",
+  "efx_budget_bytes": 18,
+  "comment": "より鋭く頑丈に改良された、スパーダの爪を象る拳具。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 27,
+  "no": "27",
+  "name": "へヴィガントレット",
+  "name_budget_bytes": 18,
+  "efx": "STR 95",
+  "efx_budget_bytes": 6,
+  "comment": "拳全体を鋼で覆った、破壊力に優れる頑強な籠手。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 28,
+  "no": "28",
+  "name": "べリアルクロー",
+  "name_budget_bytes": 14,
+  "efx": "STR 142",
+  "efx_budget_bytes": 7,
+  "comment": "扱いやすさと殺傷力を兼ね備える、隠密行動用の拳具。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 29,
+  "no": "29",
+  "name": "ホーリーグラブ",
+  "name_budget_bytes": 14,
+  "efx": "STR 187",
+  "efx_budget_bytes": 7,
+  "comment": "悪しき者を強烈に叩き伏せる、古代セルセタ王国の拳具。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 30,
+  "no": "30",
+  "name": "プルガトリオ",
+  "name_budget_bytes": 12,
+  "efx": "STR 227",
+  "efx_budget_bytes": 7,
+  "comment": "煉獄の竜を象った、途轍もない破壊力を持つナックル。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 31,
+  "no": "31",
+  "name": "業拳バルドル",
+  "name_budget_bytes": 12,
+  "efx": "STR 248",
+  "efx_budget_bytes": 7,
+  "comment": "特別な鉱石から甦った、戦の運命をも左右するという拳具。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 32,
+  "no": "32",
+  "name": "ウルトラ猛毒ナックル",
+  "name_budget_bytes": 20,
+  "efx": "STR 76 /「毒」30%",
+  "efx_budget_bytes": 17,
+  "comment": "若き鍛冶屋が試作した拳具。毒の爪の仕掛けが未熟。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 33,
+  "no": "33",
+  "name": "ベノムナックル",
+  "name_budget_bytes": 14,
+  "efx": "STR 77 /「毒」30%",
+  "efx_budget_bytes": 17,
+  "comment": "若き鍛冶屋が鍛えた、鋭い爪に猛毒を仕込んだ拳具。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 34,
+  "no": "34",
+  "name": "----篭手----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 35,
+  "no": "35",
+  "name": "----篭手----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 36,
+  "no": "36",
+  "name": "----篭手----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 37,
+  "no": "37",
+  "name": "----篭手----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 38,
+  "no": "38",
+  "name": "----篭手----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 39,
+  "no": "39",
+  "name": "----篭手----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 40,
+  "no": "40",
+  "name": "----篭手----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 41,
+  "no": "41",
+  "name": "スピアファング",
+  "name_budget_bytes": 14,
+  "efx": "STR 46",
+  "efx_budget_bytes": 6,
+  "comment": "鎧の隙間を突くために作られた、ロムン帝国製のナイフ。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 42,
+  "no": "42",
+  "name": "ハンタースロー",
+  "name_budget_bytes": 14,
+  "efx": "STR 43 /「毒」5%",
+  "efx_budget_bytes": 16,
+  "comment": "樹海での狩猟に使う、獣の牙のように軽い投げナイフ。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 43,
+  "no": "43",
+  "name": "ハンタースロー改",
+  "name_budget_bytes": 16,
+  "efx": "STR 57 /「毒」5%",
+  "efx_budget_bytes": 16,
+  "comment": "狩猟の達人が扱う重さを増した強力な投げナイフ。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 44,
+  "no": "44",
+  "name": "クイックスロー",
+  "name_budget_bytes": 14,
+  "efx": "STR 92",
+  "efx_budget_bytes": 6,
+  "comment": "威力を高めつつも軽量化した、高性能の投げナイフ。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 45,
+  "no": "45",
+  "name": "シャドウイーター",
+  "name_budget_bytes": 16,
+  "efx": "STR 138",
+  "efx_budget_bytes": 7,
+  "comment": "闇夜に紛れて獲物を仕留める、漆黒の投げナイフ。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 46,
+  "no": "46",
+  "name": "グレアスロー",
+  "name_budget_bytes": 12,
+  "efx": "STR 181",
+  "efx_budget_bytes": 7,
+  "comment": "突き立てた相手を穢れから解き放つ、聖なる投げナイフ。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 47,
+  "no": "47",
+  "name": "ジャジメント",
+  "name_budget_bytes": 12,
+  "efx": "STR 220",
+  "efx_budget_bytes": 7,
+  "comment": "邪悪なる者に裁きを下す、「審判」の名を冠するナイフ。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 48,
+  "no": "48",
+  "name": "光刃ウェヌス",
+  "name_budget_bytes": 12,
+  "efx": "STR 240",
+  "efx_budget_bytes": 7,
+  "comment": "特別な鉱石から甦った、光輝く刃で巨悪を貫く古のナイフ。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 49,
+  "no": "49",
+  "name": "ミラクル粘着ナイフ",
+  "name_budget_bytes": 18,
+  "efx": "STR 105 /「加重」30%",
+  "efx_budget_bytes": 20,
+  "comment": "若き鍛冶屋が試作したナイフ。仕込んだ粘着糸が絡まる。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 50,
+  "no": "50",
+  "name": "スパイダーエッジ",
+  "name_budget_bytes": 16,
+  "efx": "STR 106 /「加重」30%",
+  "efx_budget_bytes": 20,
+  "comment": "若き鍛冶屋が鍛えた、極細の糸で敵を絡める仕込み刀。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 51,
+  "no": "51",
+  "name": "----投擲----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 52,
+  "no": "52",
+  "name": "----投擲----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 53,
+  "no": "53",
+  "name": "----投擲----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 54,
+  "no": "54",
+  "name": "----投擲----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 55,
+  "no": "55",
+  "name": "----投擲----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 56,
+  "no": "56",
+  "name": "----投擲----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 57,
+  "no": "57",
+  "name": "----投擲----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 58,
+  "no": "58",
+  "name": "----投擲----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 59,
+  "no": "59",
+  "name": "----投擲----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 60,
+  "no": "60",
+  "name": "----投擲----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 61,
+  "no": "61",
+  "name": "ロングスピア",
+  "name_budget_bytes": 12,
+  "efx": "STR 58",
+  "efx_budget_bytes": 6,
+  "comment": "ロムン軍で使用される鋼鉄の槍。重いが威力は高い。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 62,
+  "no": "62",
+  "name": "ブルーペイン",
+  "name_budget_bytes": 12,
+  "efx": "STR 55 /「麻痺」5%",
+  "efx_budget_bytes": 18,
+  "comment": "セルレイの漁師たちの槍。水中でも自在に扱える。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 63,
+  "no": "63",
+  "name": "ブルーペイン改",
+  "name_budget_bytes": 14,
+  "efx": "STR 74 /「麻痺」5%",
+  "efx_budget_bytes": 18,
+  "comment": "改良を加えた槍。漁の邪魔をする大河の魔物をも射抜く。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 64,
+  "no": "64",
+  "name": "トライデント",
+  "name_budget_bytes": 12,
+  "efx": "STR 112",
+  "efx_budget_bytes": 7,
+  "comment": "遠い地で奉られる海神の武器を象った三叉の槍。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 65,
+  "no": "65",
+  "name": "カラミティパイク",
+  "name_budget_bytes": 16,
+  "efx": "STR 167",
+  "efx_budget_bytes": 7,
+  "comment": "独自の技術で刺突の威力を磨き抜いた漆黒の槍。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 66,
+  "no": "66",
+  "name": "グリッターランス",
+  "name_budget_bytes": 16,
+  "efx": "STR 220",
+  "efx_budget_bytes": 7,
+  "comment": "古の聖騎士が使ったという、聖獣の祝福を受けた槍。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 67,
+  "no": "67",
+  "name": "ラグナレク",
+  "name_budget_bytes": 10,
+  "efx": "STR 267",
+  "efx_budget_bytes": 7,
+  "comment": "かつて戦に倒れた、数多の戦士の魂が宿る大槍。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 68,
+  "no": "68",
+  "name": "覇槍ユピテル",
+  "name_budget_bytes": 12,
+  "efx": "STR 291",
+  "efx_budget_bytes": 7,
+  "comment": "特別な鉱石から甦った、全てを支配する力を持つ古の大槍。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 69,
+  "no": "69",
+  "name": "デンジャラス稲妻スピア",
+  "name_budget_bytes": 22,
+  "efx": "STR 120 /「麻痺」30%",
+  "efx_budget_bytes": 20,
+  "comment": "若き鍛冶屋が試作した槍。稲妻の力を制御できていない。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 70,
+  "no": "70",
+  "name": "ライトニングスピア",
+  "name_budget_bytes": 18,
+  "efx": "STR 121 /「麻痺」30%",
+  "efx_budget_bytes": 20,
+  "comment": "若き鍛冶屋が鍛えた、稲妻の力を宿した仕込み槍。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 71,
+  "no": "71",
+  "name": "----槍系----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 72,
+  "no": "72",
+  "name": "----槍系----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 73,
+  "no": "73",
+  "name": "----槍系----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 74,
+  "no": "74",
+  "name": "----槍系----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 75,
+  "no": "75",
+  "name": "----槍系----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 76,
+  "no": "76",
+  "name": "----槍系----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 77,
+  "no": "77",
+  "name": "----槍系----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 78,
+  "no": "78",
+  "name": "----槍系----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 79,
+  "no": "79",
+  "name": "----槍系----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 80,
+  "no": "80",
+  "name": "----槍系----",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 81,
+  "no": "81",
+  "name": "ゴールデンハンマー",
+  "name_budget_bytes": 18,
+  "efx": "STR 108",
+  "efx_budget_bytes": 7,
+  "comment": "金属の重量に任せて敵を叩く、黄金色のハンマー。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 82,
+  "no": "82",
+  "name": "プリズムノッカー",
+  "name_budget_bytes": 16,
+  "efx": "STR 99",
+  "efx_budget_bytes": 6,
+  "comment": "使徒が用いる、内側に煌く魔力の奔流が見られるメイス。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 83,
+  "no": "83",
+  "name": "ダークウィッチ",
+  "name_budget_bytes": 14,
+  "efx": "STR 148",
+  "efx_budget_bytes": 7,
+  "comment": "ダナンに伝わる技術で強力な魔力を宿した黒きメイス。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 84,
+  "no": "84",
+  "name": "アンセムロッド",
+  "name_budget_bytes": 14,
+  "efx": "STR 195",
+  "efx_budget_bytes": 7,
+  "comment": "古代セルセタ王国の聖職者が用いたとされる、聖なる杖。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 85,
+  "no": "85",
+  "name": "アルマゲドン",
+  "name_budget_bytes": 12,
+  "efx": "STR 237",
+  "efx_budget_bytes": 7,
+  "comment": "内なる莫大な魔力によって終末を呼ぶ、破壊のメイス。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 86,
+  "no": "86",
+  "name": "神槌ガイア",
+  "name_budget_bytes": 10,
+  "efx": "STR 258",
+  "efx_budget_bytes": 7,
+  "comment": "特別な鉱石から甦った、神の怒りで大地を揺るがす古の大槌。",
+  "comment_budget_bytes": 56
+ },
+ {
+  "idx": 87,
+  "no": "87",
+  "name": "ハイパー殲滅ハンマー",
+  "name_budget_bytes": 20,
+  "efx": "STR153/DEF-100/クリティカル30%",
+  "efx_budget_bytes": 30,
+  "comment": "若き鍛冶屋が試作した大槌。あまりの重量に無防備に……",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 88,
+  "no": "88",
+  "name": "ハイパーブレイカー",
+  "name_budget_bytes": 18,
+  "efx": "STR 154 / クリティカル30%",
+  "efx_budget_bytes": 25,
+  "comment": "若き鍛冶屋が鍛えた、型破りの重量を叩きつけるハンマー。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 89,
+  "no": "89",
+  "name": "----メイス系----",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 90,
+  "no": "90",
+  "name": "----メイス系----",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 91,
+  "no": "91",
+  "name": "----メイス系----",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 92,
+  "no": "92",
+  "name": "----メイス系----",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 93,
+  "no": "93",
+  "name": "----メイス系----",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 94,
+  "no": "94",
+  "name": "----メイス系----",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 95,
+  "no": "95",
+  "name": "----メイス系----",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 96,
+  "no": "96",
+  "name": "----メイス系----",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 97,
+  "no": "97",
+  "name": "----メイス系----",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 98,
+  "no": "98",
+  "name": "----メイス系----",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 99,
+  "no": "99",
+  "name": "----メイス系----",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 100,
+  "no": "100",
+  "name": "----メイス系----",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 101,
+  "no": "101",
+  "name": "グレートアクス",
+  "name_budget_bytes": 14,
+  "efx": "STR 165",
+  "efx_budget_bytes": 7,
+  "comment": "ロムンの重装兵が用いる、破壊力抜群の斧槍。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 102,
+  "no": "102",
+  "name": "ダークウォリアー",
+  "name_budget_bytes": 16,
+  "efx": "STR 160",
+  "efx_budget_bytes": 7,
+  "comment": "ダナンの一族に代々伝わる、由緒正しき戦士の斧槍。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 103,
+  "no": "103",
+  "name": "ルーングレイブ",
+  "name_budget_bytes": 14,
+  "efx": "STR 210",
+  "efx_budget_bytes": 7,
+  "comment": "聖なる気を纏って邪悪なる者を一閃する、両刃の斧槍。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 104,
+  "no": "104",
+  "name": "エリュシオン",
+  "name_budget_bytes": 12,
+  "efx": "STR 255",
+  "efx_budget_bytes": 7,
+  "comment": "《闇》の歴史を戒めるため、冥府より生み出された大斧槍。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 105,
+  "no": "105",
+  "name": "冥斧エキドナ",
+  "name_budget_bytes": 12,
+  "efx": "STR 278",
+  "efx_budget_bytes": 7,
+  "comment": "特別な鉱石から甦った、対する者の魂を刈り取る古の斧槍。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 106,
+  "no": "106",
+  "name": "ワンダフル冷酷アクス",
+  "name_budget_bytes": 20,
+  "efx": "STR 170 /「凍結」30%",
+  "efx_budget_bytes": 20,
+  "comment": "若き鍛冶屋が試作した斧槍。持つだけで凍てつくような冷たさ。",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 107,
+  "no": "107",
+  "name": "クリュエルアクス",
+  "name_budget_bytes": 16,
+  "efx": "STR 171 /「凍結」30%",
+  "efx_budget_bytes": 20,
+  "comment": "若き鍛冶屋が鍛えた、触れる者を凍てつかせる氷の斧槍。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 108,
+  "no": "108",
+  "name": "----ハルバード系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 109,
+  "no": "109",
+  "name": "----ハルバード系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 110,
+  "no": "110",
+  "name": "----ハルバード系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 111,
+  "no": "111",
+  "name": "----ハルバード系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 112,
+  "no": "112",
+  "name": "----ハルバード系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 113,
+  "no": "113",
+  "name": "----ハルバード系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 114,
+  "no": "114",
+  "name": "----ハルバード系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 115,
+  "no": "115",
+  "name": "----ハルバード系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 116,
+  "no": "116",
+  "name": "----ハルバード系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 117,
+  "no": "117",
+  "name": "----ハルバード系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 118,
+  "no": "118",
+  "name": "----ハルバード系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 119,
+  "no": "119",
+  "name": "----ハルバード系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 120,
+  "no": "120",
+  "name": "----ハルバード系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 121,
+  "no": "121",
+  "name": "レザープレート",
+  "name_budget_bytes": 14,
+  "efx": "DEF 9",
+  "efx_budget_bytes": 5,
+  "comment": "獣皮をなめして作られた、軽くて丈夫な胸当て。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 122,
+  "no": "122",
+  "name": "アイアンブレスト",
+  "name_budget_bytes": 16,
+  "efx": "DEF 24",
+  "efx_budget_bytes": 6,
+  "comment": "ロムン訓練兵にも支給される鋼鉄製の頑丈な鎧。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 123,
+  "no": "123",
+  "name": "ビーストレザー",
+  "name_budget_bytes": 14,
+  "efx": "DEF 38",
+  "efx_budget_bytes": 6,
+  "comment": "樹海での狩りに用いられる、硬い獣皮をなめした防具。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 124,
+  "no": "124",
+  "name": "スケイルメイル",
+  "name_budget_bytes": 14,
+  "efx": "DEF 43",
+  "efx_budget_bytes": 6,
+  "comment": "鉄より頑強な魔物の鱗を貼り付けた、軽装の鎧。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 125,
+  "no": "125",
+  "name": "ビーストレザー改",
+  "name_budget_bytes": 16,
+  "efx": "DEF 55",
+  "efx_budget_bytes": 6,
+  "comment": "長期間の狩猟にも耐えるよう改良された獣皮製の防具。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 126,
+  "no": "126",
+  "name": "スケイルメイル改",
+  "name_budget_bytes": 16,
+  "efx": "DEF 60",
+  "efx_budget_bytes": 6,
+  "comment": "何枚もの魔物の甲燐を重ねて強化された軽装の鎧。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 127,
+  "no": "127",
+  "name": "ラメラーアーマー",
+  "name_budget_bytes": 16,
+  "efx": "DEF 97",
+  "efx_budget_bytes": 6,
+  "comment": "高度な技術で作られた、柔軟性と強度を併せ持つ鎧。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 128,
+  "no": "128",
+  "name": "アンバーコート",
+  "name_budget_bytes": 14,
+  "efx": "DEF 75 / STR 4 （男性専用）",
+  "efx_budget_bytes": 27,
+  "comment": "特殊繊維で編まれた、潜在能力を引き出すコート。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 129,
+  "no": "129",
+  "name": "セリーズケープ",
+  "name_budget_bytes": 14,
+  "efx": "DEF 82 / STR 2 （女性専用）",
+  "efx_budget_bytes": 27,
+  "comment": "内なる力を増幅する性質を持つ、攻守に優れた衣。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 130,
+  "no": "130",
+  "name": "ソーサリークロス",
+  "name_budget_bytes": 16,
+  "efx": "DEF 127",
+  "efx_budget_bytes": 7,
+  "comment": "魔力を持つ蚕から糸を紡いで作られる、魔道師の衣。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 131,
+  "no": "131",
+  "name": "ルーンクローク",
+  "name_budget_bytes": 14,
+  "efx": "DEF 173",
+  "efx_budget_bytes": 7,
+  "comment": "ロダの祝福を受け、守りの力を宿した聖なる衣。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 132,
+  "no": "132",
+  "name": "テンプルクロス",
+  "name_budget_bytes": 14,
+  "efx": "DEF 228",
+  "efx_budget_bytes": 7,
+  "comment": "古代の神官が着ていたとされる、神の守護を纏う法衣。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 133,
+  "no": "133",
+  "name": "ベルセルクアーマー",
+  "name_budget_bytes": 18,
+  "efx": "DEF 212 / STR 8 （男性専用）",
+  "efx_budget_bytes": 28,
+  "comment": "古の重戦士の鎧。体の奥底から闘争本能が呼び起こされる。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 134,
+  "no": "134",
+  "name": "ヴァルキリードレス",
+  "name_budget_bytes": 18,
+  "efx": "DEF 218 / STR 4 （女性専用）",
+  "efx_budget_bytes": 28,
+  "comment": "かつて戦場を縦横無尽に駆け抜けた、戦乙女の軽装鎧。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 135,
+  "no": "135",
+  "name": "聖鎧ヴィクトール",
+  "name_budget_bytes": 16,
+  "efx": "DEF 239 / STR 12 （男性専用）",
+  "efx_budget_bytes": 29,
+  "comment": "白銀に輝いて全ての闇を照らす、神気を纏った鎧。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 136,
+  "no": "136",
+  "name": "聖鎧ヴィクトリア",
+  "name_budget_bytes": 16,
+  "efx": "DEF 252 / STR 6 （女性専用）",
+  "efx_budget_bytes": 28,
+  "comment": "悪しき者には触れることすら敵わない、神気を纏う黄金の鎧。",
+  "comment_budget_bytes": 56
+ },
+ {
+  "idx": 137,
+  "no": "137",
+  "name": "----防具系----",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 138,
+  "no": "138",
+  "name": "----防具系----",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 139,
+  "no": "139",
+  "name": "----防具系----",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 140,
+  "no": "140",
+  "name": "----防具系----",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 141,
+  "no": "141",
+  "name": "----防具系----",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 142,
+  "no": "142",
+  "name": "----防具系----",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 143,
+  "no": "143",
+  "name": "----防具系----",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 144,
+  "no": "144",
+  "name": "----防具系----",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 145,
+  "no": "145",
+  "name": "----防具系----",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 146,
+  "no": "146",
+  "name": "----防具系----",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 147,
+  "no": "147",
+  "name": "スキルリング�T",
+  "name_budget_bytes": 14,
+  "efx": "消費SP -10％",
+  "efx_budget_bytes": 12,
+  "comment": "精神力を高めてくれる指輪。消費SPが10％減少する。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 148,
+  "no": "148",
+  "name": "スキルリング�U",
+  "name_budget_bytes": 14,
+  "efx": "消費SP -20％",
+  "efx_budget_bytes": 12,
+  "comment": "精神力を高めてくれる指輪。消費SPが20％減少する。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 149,
+  "no": "149",
+  "name": "スキルリング�V",
+  "name_budget_bytes": 14,
+  "efx": "消費SP -35％",
+  "efx_budget_bytes": 12,
+  "comment": "精神力を高めてくれる指輪。消費SPが35％減少する。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 150,
+  "no": "150",
+  "name": "スキルリング�W",
+  "name_budget_bytes": 14,
+  "efx": "消費SP -50％",
+  "efx_budget_bytes": 12,
+  "comment": "精神力を高めてくれる指輪。消費SPが50％減少する。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 151,
+  "no": "151",
+  "name": "ライフリング�T",
+  "name_budget_bytes": 14,
+  "efx": "MAX HP +100",
+  "efx_budget_bytes": 11,
+  "comment": "生命力を活性化させる指輪。最大HPが100増加する。",
+  "comment_budget_bytes": 47
+ },
+ {
+  "idx": 152,
+  "no": "152",
+  "name": "ライフリング�U",
+  "name_budget_bytes": 14,
+  "efx": "MAX HP +200",
+  "efx_budget_bytes": 11,
+  "comment": "生命力を活性化させる指輪。最大HPが200増加する。",
+  "comment_budget_bytes": 47
+ },
+ {
+  "idx": 153,
+  "no": "153",
+  "name": "ライフリング�V",
+  "name_budget_bytes": 14,
+  "efx": "MAX HP +350",
+  "efx_budget_bytes": 11,
+  "comment": "生命力を活性化させる指輪。最大HPが350増加する。",
+  "comment_budget_bytes": 47
+ },
+ {
+  "idx": 154,
+  "no": "154",
+  "name": "ライフリング�W",
+  "name_budget_bytes": 14,
+  "efx": "MAX HP +500",
+  "efx_budget_bytes": 11,
+  "comment": "生命力を活性化させる指輪。最大HPが500増加する。",
+  "comment_budget_bytes": 47
+ },
+ {
+  "idx": 155,
+  "no": "155",
+  "name": "パワーリング�T",
+  "name_budget_bytes": 14,
+  "efx": "STR +5",
+  "efx_budget_bytes": 6,
+  "comment": "戦闘力を増幅させる指輪。STRが5増加する。",
+  "comment_budget_bytes": 40
+ },
+ {
+  "idx": 156,
+  "no": "156",
+  "name": "パワーリング�U",
+  "name_budget_bytes": 14,
+  "efx": "STR +10",
+  "efx_budget_bytes": 7,
+  "comment": "戦闘力を増幅させる指輪。STRが10増加する。",
+  "comment_budget_bytes": 41
+ },
+ {
+  "idx": 157,
+  "no": "157",
+  "name": "パワーリング�V",
+  "name_budget_bytes": 14,
+  "efx": "STR +15",
+  "efx_budget_bytes": 7,
+  "comment": "戦闘力を増幅させる指輪。STRが15増加する。",
+  "comment_budget_bytes": 41
+ },
+ {
+  "idx": 158,
+  "no": "158",
+  "name": "パワーリング�W",
+  "name_budget_bytes": 14,
+  "efx": "STR +20",
+  "efx_budget_bytes": 7,
+  "comment": "戦闘力を増幅させる指輪。STRが20増加する。",
+  "comment_budget_bytes": 41
+ },
+ {
+  "idx": 159,
+  "no": "159",
+  "name": "シールドリング�T",
+  "name_budget_bytes": 16,
+  "efx": "DEF +5",
+  "efx_budget_bytes": 6,
+  "comment": "守護の力を宿した指輪。DEFが5増加する。",
+  "comment_budget_bytes": 38
+ },
+ {
+  "idx": 160,
+  "no": "160",
+  "name": "シールドリング�U",
+  "name_budget_bytes": 16,
+  "efx": "DEF +10",
+  "efx_budget_bytes": 7,
+  "comment": "守護の力を宿した指輪。DEFが10増加する。",
+  "comment_budget_bytes": 39
+ },
+ {
+  "idx": 161,
+  "no": "161",
+  "name": "シールドリング�V",
+  "name_budget_bytes": 16,
+  "efx": "DEF +15",
+  "efx_budget_bytes": 7,
+  "comment": "守護の力を宿した指輪。DEFが15増加する。",
+  "comment_budget_bytes": 39
+ },
+ {
+  "idx": 162,
+  "no": "162",
+  "name": "シールドリング�W",
+  "name_budget_bytes": 16,
+  "efx": "DEF +20",
+  "efx_budget_bytes": 7,
+  "comment": "守護の力を宿した指輪。DEFが20増加する。",
+  "comment_budget_bytes": 39
+ },
+ {
+  "idx": 163,
+  "no": "163",
+  "name": "蒼の羽根飾り",
+  "name_budget_bytes": 12,
+  "efx": "エアリアルコンボでSP入手",
+  "efx_budget_bytes": 24,
+  "comment": "エアリアルコンボ中、ライフエナジーの代わりにSPを入手する。",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 164,
+  "no": "164",
+  "name": "金の羽根飾り",
+  "name_budget_bytes": 12,
+  "efx": "エアリアルコンボでEXTRAゲージ増加",
+  "efx_budget_bytes": 33,
+  "comment": "エアリアルコンボ中、ライフエナジーの代わりにEXTRA増加。",
+  "comment_budget_bytes": 55
+ },
+ {
+  "idx": 165,
+  "no": "165",
+  "name": "蒼樹のイヤリング",
+  "name_budget_bytes": 16,
+  "efx": "入手SP増加",
+  "efx_budget_bytes": 10,
+  "comment": "妖艶な蒼いイヤリング。攻撃時に得られるSPが増加する。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 166,
+  "no": "166",
+  "name": "霊樹のイヤリング",
+  "name_budget_bytes": 16,
+  "efx": "スキル攻撃時EXTRAゲージ増加量上昇",
+  "efx_budget_bytes": 33,
+  "comment": "スキル攻撃時のEXTRAゲージの増加量が上昇する。",
+  "comment_budget_bytes": 45
+ },
+ {
+  "idx": 167,
+  "no": "167",
+  "name": "鋭気のベルト",
+  "name_budget_bytes": 12,
+  "efx": "攻撃を受けるとSP入手",
+  "efx_budget_bytes": 20,
+  "comment": "攻撃を受けたときにSPが得られる。",
+  "comment_budget_bytes": 32
+ },
+ {
+  "idx": 168,
+  "no": "168",
+  "name": "霊威のベルト",
+  "name_budget_bytes": 12,
+  "efx": "攻撃を受けるとEXTRAゲージ増加",
+  "efx_budget_bytes": 29,
+  "comment": "攻撃を受けたときにEXTRAゲージが増加する。",
+  "comment_budget_bytes": 41
+ },
+ {
+  "idx": 169,
+  "no": "169",
+  "name": "流浪のマント",
+  "name_budget_bytes": 12,
+  "efx": "移動距離でステータス強化",
+  "efx_budget_bytes": 24,
+  "comment": "歩いた距離に応じて能力が強化される。",
+  "comment_budget_bytes": 36
+ },
+ {
+  "idx": 170,
+  "no": "170",
+  "name": "勇士のマント",
+  "name_budget_bytes": 12,
+  "efx": "倒した敵の数でステータス強化",
+  "efx_budget_bytes": 28,
+  "comment": "今までに倒した敵の数に応じて能力が強化される。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 171,
+  "no": "171",
+  "name": "捨身のハチマキ",
+  "name_budget_bytes": 14,
+  "efx": "STR +15 / DEF -15",
+  "efx_budget_bytes": 17,
+  "comment": "守りを捨てて敵に立ち向かう捨身の覚悟が生まれるハチマキ。",
+  "comment_budget_bytes": 56
+ },
+ {
+  "idx": 172,
+  "no": "172",
+  "name": "決死のハチマキ",
+  "name_budget_bytes": 14,
+  "efx": "STR +5 / HP低下時に与ダメージ上昇",
+  "efx_budget_bytes": 33,
+  "comment": "残りHPが少ない時に、与えるダメージが上昇する。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 173,
+  "no": "173",
+  "name": "鋭気のマフラー",
+  "name_budget_bytes": 14,
+  "efx": "歩くとSP入手",
+  "efx_budget_bytes": 12,
+  "comment": "精神力を研ぎ澄ませるマフラー。歩くとSPを入手する。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 174,
+  "no": "174",
+  "name": "隠者のマフラー",
+  "name_budget_bytes": 14,
+  "efx": "歩くとEXP入手",
+  "efx_budget_bytes": 13,
+  "comment": "悟りの境地を拓くマフラー。歩くだけで経験値を入手する。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 175,
+  "no": "175",
+  "name": "業師の手袋",
+  "name_budget_bytes": 10,
+  "efx": "スキルフィニッシュでSP回復",
+  "efx_budget_bytes": 26,
+  "comment": "スキルフィニッシュ時に、使用したSPが全回復する。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 176,
+  "no": "176",
+  "name": "不動の玉帯",
+  "name_budget_bytes": 10,
+  "efx": "スキル使用中ノックバックしない",
+  "efx_budget_bytes": 30,
+  "comment": "スキルを使用している間、ノックバックしなくなる。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 177,
+  "no": "177",
+  "name": "閃光の腕輪",
+  "name_budget_bytes": 10,
+  "efx": "フラッシュガードでＨＰ回復",
+  "efx_budget_bytes": 26,
+  "comment": "フラッシュガードが成功したときにHPが回復する。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 178,
+  "no": "178",
+  "name": "閃火の足輪",
+  "name_budget_bytes": 10,
+  "efx": "フラッシュムーブのスロー効果時間増加",
+  "efx_budget_bytes": 36,
+  "comment": "フラッシュムーブが成功したときのスロー効果時間が増加する。",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 179,
+  "no": "179",
+  "name": "白蛇の護符",
+  "name_budget_bytes": 10,
+  "efx": "「毒」予防",
+  "efx_budget_bytes": 10,
+  "comment": "神聖な白蛇が描かれた護符。「毒」状態を予防する。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 180,
+  "no": "180",
+  "name": "飛燕の護符",
+  "name_budget_bytes": 10,
+  "efx": "「加重」予防",
+  "efx_budget_bytes": 12,
+  "comment": "宙を舞う燕が描かれた護符。「加重」状態を予防する。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 181,
+  "no": "181",
+  "name": "雷獣の護符",
+  "name_budget_bytes": 10,
+  "efx": "「麻痺」予防",
+  "efx_budget_bytes": 12,
+  "comment": "雷をまとう獣が描かれた護符。「麻痺」状態を予防する。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 182,
+  "no": "182",
+  "name": "緋鱗の護符",
+  "name_budget_bytes": 10,
+  "efx": "「燃焼」予防",
+  "efx_budget_bytes": 12,
+  "comment": "緋色の鱗が描かれた護符。「燃焼」状態を予防する。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 183,
+  "no": "183",
+  "name": "蒼鱗の護符",
+  "name_budget_bytes": 10,
+  "efx": "「凍結」予防",
+  "efx_budget_bytes": 12,
+  "comment": "蒼色の鱗が描かれた護符。「凍結」状態を予防する。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 184,
+  "no": "184",
+  "name": "銀竜の護符",
+  "name_budget_bytes": 10,
+  "efx": "「呪詛」予防 / DEF +5",
+  "efx_budget_bytes": 21,
+  "comment": "白銀に輝く竜が描かれた護符。「呪詛」状態を予防する。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 185,
+  "no": "185",
+  "name": "金竜の護符",
+  "name_budget_bytes": 10,
+  "efx": "「不幸」予防 / STR +5",
+  "efx_budget_bytes": 21,
+  "comment": "黄金に輝く竜が描かれた護符。「不幸」状態を予防する。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 186,
+  "no": "186",
+  "name": "戦士の刻印�T",
+  "name_budget_bytes": 12,
+  "efx": "スキル熟練度 +1",
+  "efx_budget_bytes": 15,
+  "comment": "スキル使用時の熟練度の上昇値が1増加する。",
+  "comment_budget_bytes": 41
+ },
+ {
+  "idx": 187,
+  "no": "187",
+  "name": "戦士の刻印�U",
+  "name_budget_bytes": 12,
+  "efx": "スキル熟練度 +2",
+  "efx_budget_bytes": 15,
+  "comment": "スキル使用時の熟練度の上昇値が2増加する。",
+  "comment_budget_bytes": 41
+ },
+ {
+  "idx": 188,
+  "no": "188",
+  "name": "戦士の刻印�V",
+  "name_budget_bytes": 12,
+  "efx": "スキル熟練度 +3",
+  "efx_budget_bytes": 15,
+  "comment": "スキル使用時の熟練度の上昇値が3増加する。",
+  "comment_budget_bytes": 41
+ },
+ {
+  "idx": 189,
+  "no": "189",
+  "name": "戦士の刻印�W",
+  "name_budget_bytes": 12,
+  "efx": "スキル熟練度 +4",
+  "efx_budget_bytes": 15,
+  "comment": "スキル使用時の熟練度の上昇値が4増加する。",
+  "comment_budget_bytes": 41
+ },
+ {
+  "idx": 190,
+  "no": "190",
+  "name": "銀の斧",
+  "name_budget_bytes": 6,
+  "efx": "レアアイテム入手確率アップ",
+  "efx_budget_bytes": 26,
+  "comment": "銀の斧を象ったお守り。レアアイテムを入手しやすくなる。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 191,
+  "no": "191",
+  "name": "金の斧",
+  "name_budget_bytes": 6,
+  "efx": "入手Gold増加",
+  "efx_budget_bytes": 12,
+  "comment": "金の斧を象ったお守り。入手するGoldが増加する。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 192,
+  "no": "192",
+  "name": "賢者の頭冠",
+  "name_budget_bytes": 10,
+  "efx": "取得EXP増加",
+  "efx_budget_bytes": 11,
+  "comment": "賢き者の証たる冠。得られる経験値が増加する。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 193,
+  "no": "193",
+  "name": "聖者の額冠",
+  "name_budget_bytes": 10,
+  "efx": "Gold入手時にEXPに変換",
+  "efx_budget_bytes": 21,
+  "comment": "神聖な輝きを放つ額冠。Gold入手の代わりに経験値を得る。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 194,
+  "no": "194",
+  "name": "精霊の首飾り",
+  "name_budget_bytes": 12,
+  "efx": "戦闘不能時、一度だけ復活",
+  "efx_budget_bytes": 24,
+  "comment": "身につけていると戦闘不能時に壊れて、装備者を復活させる。",
+  "comment_budget_bytes": 56
+ },
+ {
+  "idx": 195,
+  "no": "195",
+  "name": "血塗れの勾玉",
+  "name_budget_bytes": 12,
+  "efx": "亡霊を引き寄せる",
+  "efx_budget_bytes": 16,
+  "comment": "血に塗れた禍々しい勾玉。彷徨う亡霊を引き寄せる。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 196,
+  "no": "196",
+  "name": "聖騎士の勾玉",
+  "name_budget_bytes": 12,
+  "efx": "「呪詛」予防 / STR +10 / DEF +10",
+  "efx_budget_bytes": 32,
+  "comment": "浄化された聖騎士の魂が宿る勾玉。持ち主を強く守護する。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 197,
+  "no": "197",
+  "name": "英雄の指輪",
+  "name_budget_bytes": 10,
+  "efx": "EXTRAスキルを変化",
+  "efx_budget_bytes": 17,
+  "comment": "身につけた者のEXTRAスキルをより強力なものに変化させる。",
+  "comment_budget_bytes": 55
+ },
+ {
+  "idx": 198,
+  "no": "198",
+  "name": "----アクセサリ系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 199,
+  "no": "199",
+  "name": "----アクセサリ系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 200,
+  "no": "200",
+  "name": "----アクセサリ系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 201,
+  "no": "201",
+  "name": "----アクセサリ系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 202,
+  "no": "202",
+  "name": "----アクセサリ系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 203,
+  "no": "203",
+  "name": "----アクセサリ系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 204,
+  "no": "204",
+  "name": "----アクセサリ系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 205,
+  "no": "205",
+  "name": "----アクセサリ系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 206,
+  "no": "206",
+  "name": "----アクセサリ系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 207,
+  "no": "207",
+  "name": "----アクセサリ系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 208,
+  "no": "208",
+  "name": "----アクセサリ系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 209,
+  "no": "209",
+  "name": "----アクセサリ系----",
+  "name_budget_bytes": 20,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "",
+  "comment_budget_bytes": 0
+ },
+ {
+  "idx": 210,
+  "no": "210",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 211,
+  "no": "211",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 212,
+  "no": "212",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 213,
+  "no": "213",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 214,
+  "no": "214",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 215,
+  "no": "215",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 216,
+  "no": "216",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 217,
+  "no": "217",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 218,
+  "no": "218",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 219,
+  "no": "219",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 220,
+  "no": "220",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 221,
+  "no": "221",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 222,
+  "no": "222",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 223,
+  "no": "223",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 224,
+  "no": "224",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 225,
+  "no": "225",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 226,
+  "no": "226",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 227,
+  "no": "227",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 228,
+  "no": "228",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 229,
+  "no": "229",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 230,
+  "no": "230",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 231,
+  "no": "231",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 232,
+  "no": "232",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 233,
+  "no": "233",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 234,
+  "no": "234",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 235,
+  "no": "235",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 236,
+  "no": "236",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 237,
+  "no": "237",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 238,
+  "no": "238",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 239,
+  "no": "239",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 240,
+  "no": "240",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 241,
+  "no": "241",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 242,
+  "no": "242",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 243,
+  "no": "243",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 244,
+  "no": "244",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 245,
+  "no": "245",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 246,
+  "no": "246",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 247,
+  "no": "247",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 248,
+  "no": "248",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 249,
+  "no": "249",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 250,
+  "no": "250",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 251,
+  "no": "251",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 252,
+  "no": "252",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 253,
+  "no": "253",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 254,
+  "no": "254",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 255,
+  "no": "255",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 256,
+  "no": "256",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 257,
+  "no": "257",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 258,
+  "no": "258",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 259,
+  "no": "259",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 260,
+  "no": "260",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 261,
+  "no": "261",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 262,
+  "no": "262",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 263,
+  "no": "263",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 264,
+  "no": "264",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 265,
+  "no": "265",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 266,
+  "no": "266",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 267,
+  "no": "267",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 268,
+  "no": "268",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 269,
+  "no": "269",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 270,
+  "no": "270",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 271,
+  "no": "271",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 272,
+  "no": "272",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 273,
+  "no": "273",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 274,
+  "no": "274",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 275,
+  "no": "275",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 276,
+  "no": "276",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 277,
+  "no": "277",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 278,
+  "no": "278",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 279,
+  "no": "279",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 280,
+  "no": "280",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 281,
+  "no": "281",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 282,
+  "no": "282",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 283,
+  "no": "283",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 284,
+  "no": "284",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 285,
+  "no": "285",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 286,
+  "no": "286",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 287,
+  "no": "287",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 288,
+  "no": "288",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 289,
+  "no": "289",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 290,
+  "no": "290",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 291,
+  "no": "291",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 292,
+  "no": "292",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 293,
+  "no": "293",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 294,
+  "no": "294",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 295,
+  "no": "295",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 296,
+  "no": "296",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 297,
+  "no": "297",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 298,
+  "no": "298",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 299,
+  "no": "299",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 300,
+  "no": "300",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 301,
+  "no": "301",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 302,
+  "no": "302",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 303,
+  "no": "303",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 304,
+  "no": "304",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 305,
+  "no": "305",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 306,
+  "no": "306",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 307,
+  "no": "307",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 308,
+  "no": "308",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 309,
+  "no": "309",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 310,
+  "no": "310",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 311,
+  "no": "311",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 312,
+  "no": "312",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 313,
+  "no": "313",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 314,
+  "no": "314",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 315,
+  "no": "315",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 316,
+  "no": "316",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 317,
+  "no": "317",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 318,
+  "no": "318",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 319,
+  "no": "319",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 320,
+  "no": "320",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 321,
+  "no": "321",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 322,
+  "no": "322",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 323,
+  "no": "323",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 324,
+  "no": "324",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 325,
+  "no": "325",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 326,
+  "no": "326",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 327,
+  "no": "327",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 328,
+  "no": "328",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 329,
+  "no": "329",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 330,
+  "no": "330",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 331,
+  "no": "331",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 332,
+  "no": "332",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 333,
+  "no": "333",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 334,
+  "no": "334",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 335,
+  "no": "335",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 336,
+  "no": "336",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 337,
+  "no": "337",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 338,
+  "no": "338",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 339,
+  "no": "339",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 340,
+  "no": "340",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 341,
+  "no": "341",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 342,
+  "no": "342",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 343,
+  "no": "343",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 344,
+  "no": "344",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 345,
+  "no": "345",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 346,
+  "no": "346",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 347,
+  "no": "347",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 348,
+  "no": "348",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 349,
+  "no": "349",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 350,
+  "no": "350",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 351,
+  "no": "351",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 352,
+  "no": "352",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 353,
+  "no": "353",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 354,
+  "no": "354",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 355,
+  "no": "355",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 356,
+  "no": "356",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 357,
+  "no": "357",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 358,
+  "no": "358",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 359,
+  "no": "359",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 360,
+  "no": "360",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 361,
+  "no": "361",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 362,
+  "no": "362",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 363,
+  "no": "363",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 364,
+  "no": "364",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 365,
+  "no": "365",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 366,
+  "no": "366",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 367,
+  "no": "367",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 368,
+  "no": "368",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 369,
+  "no": "369",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 370,
+  "no": "370",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 371,
+  "no": "371",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 372,
+  "no": "372",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 373,
+  "no": "373",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 374,
+  "no": "374",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 375,
+  "no": "375",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 376,
+  "no": "376",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 377,
+  "no": "377",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 378,
+  "no": "378",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 379,
+  "no": "379",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 380,
+  "no": "380",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 381,
+  "no": "381",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 382,
+  "no": "382",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 383,
+  "no": "383",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 384,
+  "no": "384",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 385,
+  "no": "385",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 386,
+  "no": "386",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 387,
+  "no": "387",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 388,
+  "no": "388",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 389,
+  "no": "389",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 390,
+  "no": "390",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 391,
+  "no": "391",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 392,
+  "no": "392",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 393,
+  "no": "393",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 394,
+  "no": "394",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 395,
+  "no": "395",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 396,
+  "no": "396",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 397,
+  "no": "397",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 398,
+  "no": "398",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 399,
+  "no": "399",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 400,
+  "no": "400",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 401,
+  "no": "401",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 402,
+  "no": "402",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 403,
+  "no": "403",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 404,
+  "no": "404",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 405,
+  "no": "405",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 406,
+  "no": "406",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 407,
+  "no": "407",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 408,
+  "no": "408",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 409,
+  "no": "409",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 410,
+  "no": "410",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 411,
+  "no": "411",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 412,
+  "no": "412",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 413,
+  "no": "413",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 414,
+  "no": "414",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 415,
+  "no": "415",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 416,
+  "no": "416",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 417,
+  "no": "417",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 418,
+  "no": "418",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 419,
+  "no": "419",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 420,
+  "no": "420",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 421,
+  "no": "421",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 422,
+  "no": "422",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 423,
+  "no": "423",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 424,
+  "no": "424",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 425,
+  "no": "425",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 426,
+  "no": "426",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 427,
+  "no": "427",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 428,
+  "no": "428",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 429,
+  "no": "429",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 430,
+  "no": "430",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 431,
+  "no": "431",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 432,
+  "no": "432",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 433,
+  "no": "433",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 434,
+  "no": "434",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 435,
+  "no": "435",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 436,
+  "no": "436",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 437,
+  "no": "437",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 438,
+  "no": "438",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 439,
+  "no": "439",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 440,
+  "no": "440",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 441,
+  "no": "441",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 442,
+  "no": "442",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 443,
+  "no": "443",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 444,
+  "no": "444",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 445,
+  "no": "445",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 446,
+  "no": "446",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 447,
+  "no": "447",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 448,
+  "no": "448",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 449,
+  "no": "449",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 450,
+  "no": "450",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 451,
+  "no": "451",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 452,
+  "no": "452",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 453,
+  "no": "453",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 454,
+  "no": "454",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 455,
+  "no": "455",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 456,
+  "no": "456",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 457,
+  "no": "457",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 458,
+  "no": "458",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 459,
+  "no": "459",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 460,
+  "no": "460",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 461,
+  "no": "461",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 462,
+  "no": "462",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 463,
+  "no": "463",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 464,
+  "no": "464",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 465,
+  "no": "465",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 466,
+  "no": "466",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 467,
+  "no": "467",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 468,
+  "no": "468",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 469,
+  "no": "469",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 470,
+  "no": "470",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 471,
+  "no": "471",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 472,
+  "no": "472",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 473,
+  "no": "473",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 474,
+  "no": "474",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 475,
+  "no": "475",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 476,
+  "no": "476",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 477,
+  "no": "477",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 478,
+  "no": "478",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 479,
+  "no": "479",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 480,
+  "no": "480",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 481,
+  "no": "481",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 482,
+  "no": "482",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 483,
+  "no": "483",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 484,
+  "no": "484",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 485,
+  "no": "485",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 486,
+  "no": "486",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 487,
+  "no": "487",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 488,
+  "no": "488",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 489,
+  "no": "489",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 490,
+  "no": "490",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 491,
+  "no": "491",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 492,
+  "no": "492",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 493,
+  "no": "493",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 494,
+  "no": "494",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 495,
+  "no": "495",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 496,
+  "no": "496",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 497,
+  "no": "497",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 498,
+  "no": "498",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 499,
+  "no": "499",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 500,
+  "no": "500",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 501,
+  "no": "501",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 502,
+  "no": "502",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 503,
+  "no": "503",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 504,
+  "no": "504",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 505,
+  "no": "505",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 506,
+  "no": "506",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 507,
+  "no": "507",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 508,
+  "no": "508",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 509,
+  "no": "509",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 510,
+  "no": "510",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 511,
+  "no": "511",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 512,
+  "no": "512",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 513,
+  "no": "513",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 514,
+  "no": "514",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 515,
+  "no": "515",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 516,
+  "no": "516",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 517,
+  "no": "517",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 518,
+  "no": "518",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 519,
+  "no": "519",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 520,
+  "no": "520",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 521,
+  "no": "521",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 522,
+  "no": "522",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 523,
+  "no": "523",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 524,
+  "no": "524",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 525,
+  "no": "525",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 526,
+  "no": "526",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 527,
+  "no": "527",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 528,
+  "no": "528",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 529,
+  "no": "529",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 530,
+  "no": "530",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 531,
+  "no": "531",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 532,
+  "no": "532",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 533,
+  "no": "533",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 534,
+  "no": "534",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 535,
+  "no": "535",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 536,
+  "no": "536",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 537,
+  "no": "537",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 538,
+  "no": "538",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 539,
+  "no": "539",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 540,
+  "no": "540",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 541,
+  "no": "541",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 542,
+  "no": "542",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 543,
+  "no": "543",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 544,
+  "no": "544",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 545,
+  "no": "545",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 546,
+  "no": "546",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 547,
+  "no": "547",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 548,
+  "no": "548",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 549,
+  "no": "549",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 550,
+  "no": "550",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 551,
+  "no": "551",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 552,
+  "no": "552",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 553,
+  "no": "553",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 554,
+  "no": "554",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 555,
+  "no": "555",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 556,
+  "no": "556",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 557,
+  "no": "557",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 558,
+  "no": "558",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 559,
+  "no": "559",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 560,
+  "no": "560",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 561,
+  "no": "561",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 562,
+  "no": "562",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 563,
+  "no": "563",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 564,
+  "no": "564",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 565,
+  "no": "565",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 566,
+  "no": "566",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 567,
+  "no": "567",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 568,
+  "no": "568",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 569,
+  "no": "569",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 570,
+  "no": "570",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 571,
+  "no": "571",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 572,
+  "no": "572",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 573,
+  "no": "573",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 574,
+  "no": "574",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 575,
+  "no": "575",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 576,
+  "no": "576",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 577,
+  "no": "577",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 578,
+  "no": "578",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 579,
+  "no": "579",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 580,
+  "no": "580",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 581,
+  "no": "581",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 582,
+  "no": "582",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 583,
+  "no": "583",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 584,
+  "no": "584",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 585,
+  "no": "585",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 586,
+  "no": "586",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 587,
+  "no": "587",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 588,
+  "no": "588",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 589,
+  "no": "589",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 590,
+  "no": "590",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 591,
+  "no": "591",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 592,
+  "no": "592",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 593,
+  "no": "593",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 594,
+  "no": "594",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 595,
+  "no": "595",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 596,
+  "no": "596",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 597,
+  "no": "597",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 598,
+  "no": "598",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 599,
+  "no": "599",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 600,
+  "no": "600",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 601,
+  "no": "601",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 602,
+  "no": "602",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 603,
+  "no": "603",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 604,
+  "no": "604",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 605,
+  "no": "605",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 606,
+  "no": "606",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 607,
+  "no": "607",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 608,
+  "no": "608",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 609,
+  "no": "609",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 610,
+  "no": "610",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 611,
+  "no": "611",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 612,
+  "no": "612",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 613,
+  "no": "613",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 614,
+  "no": "614",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 615,
+  "no": "615",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 616,
+  "no": "616",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 617,
+  "no": "617",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 618,
+  "no": "618",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 619,
+  "no": "619",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 620,
+  "no": "620",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 621,
+  "no": "621",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 622,
+  "no": "622",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 623,
+  "no": "623",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 624,
+  "no": "624",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 625,
+  "no": "625",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 626,
+  "no": "626",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 627,
+  "no": "627",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 628,
+  "no": "628",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 629,
+  "no": "629",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 630,
+  "no": "630",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 631,
+  "no": "631",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 632,
+  "no": "632",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 633,
+  "no": "633",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 634,
+  "no": "634",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 635,
+  "no": "635",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 636,
+  "no": "636",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 637,
+  "no": "637",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 638,
+  "no": "638",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 639,
+  "no": "639",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 640,
+  "no": "640",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 641,
+  "no": "641",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 642,
+  "no": "642",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 643,
+  "no": "643",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 644,
+  "no": "644",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 645,
+  "no": "645",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 646,
+  "no": "646",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 647,
+  "no": "647",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 648,
+  "no": "648",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 649,
+  "no": "649",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 650,
+  "no": "650",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 651,
+  "no": "651",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 652,
+  "no": "652",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 653,
+  "no": "653",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 654,
+  "no": "654",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 655,
+  "no": "655",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 656,
+  "no": "656",
+  "name": "1SP",
+  "name_budget_bytes": 3,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "ライフエナジー",
+  "comment_budget_bytes": 14
+ },
+ {
+  "idx": 657,
+  "no": "657",
+  "name": "5SP",
+  "name_budget_bytes": 3,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "ライフエナジー",
+  "comment_budget_bytes": 14
+ },
+ {
+  "idx": 658,
+  "no": "658",
+  "name": "1EX",
+  "name_budget_bytes": 3,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "ライフエナジー",
+  "comment_budget_bytes": 14
+ },
+ {
+  "idx": 659,
+  "no": "659",
+  "name": "5EX",
+  "name_budget_bytes": 3,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "ライフエナジー",
+  "comment_budget_bytes": 14
+ },
+ {
+  "idx": 660,
+  "no": "660",
+  "name": "１ゴールド",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "お金",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 661,
+  "no": "661",
+  "name": "５ゴールド",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "お金",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 662,
+  "no": "662",
+  "name": "１０ゴールド",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "お金",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 663,
+  "no": "663",
+  "name": "５０ゴールド",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "お金",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 664,
+  "no": "664",
+  "name": "１００ゴールド",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "お金",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 665,
+  "no": "665",
+  "name": "５００ゴールド",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "お金",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 666,
+  "no": "666",
+  "name": "１０００ゴールド",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "お金",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 667,
+  "no": "667",
+  "name": "５０００ゴールド",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "お金",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 668,
+  "no": "668",
+  "name": "１HP",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "ライフエナジー",
+  "comment_budget_bytes": 14
+ },
+ {
+  "idx": 669,
+  "no": "669",
+  "name": "５HP",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "ライフエナジー",
+  "comment_budget_bytes": 14
+ },
+ {
+  "idx": 670,
+  "no": "670",
+  "name": "ハニーポーション",
+  "name_budget_bytes": 16,
+  "efx": "HP 100 回復",
+  "efx_budget_bytes": 11,
+  "comment": "花の蜜の香りがする甘い飲み薬。HPを100回復する。",
+  "comment_budget_bytes": 47
+ },
+ {
+  "idx": 671,
+  "no": "671",
+  "name": "ビターポーション",
+  "name_budget_bytes": 16,
+  "efx": "HP 500 回復",
+  "efx_budget_bytes": 11,
+  "comment": "苦いが効果の高い飲み薬。HPを500回復する。",
+  "comment_budget_bytes": 41
+ },
+ {
+  "idx": 672,
+  "no": "672",
+  "name": "カイザーポーション",
+  "name_budget_bytes": 18,
+  "efx": "HP 2000 回復",
+  "efx_budget_bytes": 12,
+  "comment": "高い回復効果が得られる飲み薬。HPを2000回復する。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 673,
+  "no": "673",
+  "name": "毒消し薬",
+  "name_budget_bytes": 8,
+  "efx": "「毒」回復",
+  "efx_budget_bytes": 10,
+  "comment": "「毒」状態を回復する、無味無臭の粉薬。",
+  "comment_budget_bytes": 38
+ },
+ {
+  "idx": 674,
+  "no": "674",
+  "name": "麻痺取り薬",
+  "name_budget_bytes": 10,
+  "efx": "「麻痺」回復",
+  "efx_budget_bytes": 12,
+  "comment": "「麻痺」状態を回復する、ツンとくる粉薬。",
+  "comment_budget_bytes": 40
+ },
+ {
+  "idx": 675,
+  "no": "675",
+  "name": "清浄薬",
+  "name_budget_bytes": 6,
+  "efx": "「呪詛」/「不幸」回復",
+  "efx_budget_bytes": 21,
+  "comment": "「呪詛」「不幸」状態を回復する、爽やかな粉薬。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 676,
+  "no": "676",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 677,
+  "no": "677",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 678,
+  "no": "678",
+  "name": "ロダの雫",
+  "name_budget_bytes": 8,
+  "efx": "HP 10% 回復 /「戦闘不能」回復",
+  "efx_budget_bytes": 29,
+  "comment": "精霊樹からとれる雫。「戦闘不能」とHPを10％回復する。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 679,
+  "no": "679",
+  "name": "セルセタの秘薬",
+  "name_budget_bytes": 14,
+  "efx": "HP 完全回復 /「戦闘不能」回復",
+  "efx_budget_bytes": 29,
+  "comment": "セルセタに伝わる秘薬。「戦闘不能」とHPを全快する。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 680,
+  "no": "680",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 681,
+  "no": "681",
+  "name": "万能薬",
+  "name_budget_bytes": 6,
+  "efx": "全状態異常回復",
+  "efx_budget_bytes": 14,
+  "comment": "全ての状態異常を回復する、秘伝の粉薬。",
+  "comment_budget_bytes": 38
+ },
+ {
+  "idx": 682,
+  "no": "682",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 683,
+  "no": "683",
+  "name": "白銀の翼",
+  "name_budget_bytes": 8,
+  "efx": "石碑から同じ種類の石碑に転位",
+  "efx_budget_bytes": 28,
+  "comment": "石碑に触れることで同じ種類の石碑に転位できる。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 684,
+  "no": "684",
+  "name": "黄金の翼",
+  "name_budget_bytes": 8,
+  "efx": "「地図」から全ての石碑に転位",
+  "efx_budget_bytes": 28,
+  "comment": "今までに触れた全ての石碑に転位することができる。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 685,
+  "no": "685",
+  "name": "冒険日誌",
+  "name_budget_bytes": 8,
+  "efx": "「冒険日誌」から情報を確認",
+  "efx_budget_bytes": 26,
+  "comment": "セルセタでの冒険の記録日誌。様々な情報を確認できる。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 686,
+  "no": "686",
+  "name": "セルセタの地図",
+  "name_budget_bytes": 14,
+  "efx": "「地図」からマップを確認",
+  "efx_budget_bytes": 24,
+  "comment": "作成中のセルセタの地図。歩いた場所の地形が記されていく。",
+  "comment_budget_bytes": 56
+ },
+ {
+  "idx": 687,
+  "no": "687",
+  "name": "鉱山の鍵",
+  "name_budget_bytes": 8,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "鉱山で入手した古びた鍵。閉ざされた扉を開く。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 688,
+  "no": "688",
+  "name": "石板の欠片",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "千古の巣穴で見つけた、割れた石板の欠片。",
+  "comment_budget_bytes": 40
+ },
+ {
+  "idx": 689,
+  "no": "689",
+  "name": "石板の欠片",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "聖獣の住み処で見つけた、割れた石板の欠片。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 690,
+  "no": "690",
+  "name": "使い込んだ手帳",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "《始原の地》への道を示す、アドルの持っていた手帳。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 691,
+  "no": "691",
+  "name": "手帳の切れ端",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "紛失した手帳の切れ端。内容は《……から仮面を預かった》。",
+  "comment_budget_bytes": 56
+ },
+ {
+  "idx": 692,
+  "no": "692",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 693,
+  "no": "693",
+  "name": "割れた仮面・左",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "ヴェスヴィオ山で入手した割れた仮面。力は感じられない。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 694,
+  "no": "694",
+  "name": "割れた仮面・右",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "トルメス湖上遺跡で入手した割れた仮面。力は感じられない。",
+  "comment_budget_bytes": 56
+ },
+ {
+  "idx": 695,
+  "no": "695",
+  "name": "宝剣エメロード",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "ロダから授かった宝剣。生体兵器に止めを刺すことができる。",
+  "comment_budget_bytes": 56
+ },
+ {
+  "idx": 696,
+  "no": "696",
+  "name": "月の仮面",
+  "name_budget_bytes": 8,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "《太陽の仮面》と対になる仮面。太陽神殿に入る鍵となる。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 697,
+  "no": "697",
+  "name": "太陽の仮面",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "生命の書を読み解く力を持つという古の仮面。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 698,
+  "no": "698",
+  "name": "風の紋章",
+  "name_budget_bytes": 8,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "白銀の間で手に入れた、吹き荒ぶ風の力が宿った紋章。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 699,
+  "no": "699",
+  "name": "雨の紋章",
+  "name_budget_bytes": 8,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "白銀の間で手に入れた、降り注ぐ雨の力が宿った紋章。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 700,
+  "no": "700",
+  "name": "太陽の紋章",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "白銀の間で手に入れた、燃え盛る太陽の力が宿った紋章。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 701,
+  "no": "701",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 702,
+  "no": "702",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 703,
+  "no": "703",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 704,
+  "no": "704",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 705,
+  "no": "705",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 706,
+  "no": "706",
+  "name": "ファバロスミルク",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "平原のファバロス（メス）から搾った新鮮なミルク。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 707,
+  "no": "707",
+  "name": "エタンのサイン帳",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "エタンが父から譲り受けた手帳。色々なサインが書かれている。",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 708,
+  "no": "708",
+  "name": "太陽石",
+  "name_budget_bytes": 6,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "仄かに熱を放ち続ける不思議な鉱石。古代の武器の材料になる。",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 709,
+  "no": "709",
+  "name": "マールの花飾り",
+  "name_budget_bytes": 14,
+  "efx": "「毒」予防 / DEF +1",
+  "efx_budget_bytes": 19,
+  "comment": "マールの花を束ねて作った花飾り。甘い香りがする。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 710,
+  "no": "710",
+  "name": "ユペルの花飾り",
+  "name_budget_bytes": 14,
+  "efx": "「麻痺」予防 / DEF +3",
+  "efx_budget_bytes": 21,
+  "comment": "ユペルの花を束ねて作った花飾り。芳しい香りがする。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 711,
+  "no": "711",
+  "name": "リブラの花飾り",
+  "name_budget_bytes": 14,
+  "efx": "「凍結」予防 / DEF +5",
+  "efx_budget_bytes": 21,
+  "comment": "リブラの花を束ねて作った花飾り。清らかな香りがする。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 712,
+  "no": "712",
+  "name": "セルセタの花飾り",
+  "name_budget_bytes": 16,
+  "efx": "「呪詛」予防 / DEF +10 / HP+200",
+  "efx_budget_bytes": 31,
+  "comment": "セルセタの花を束ねて作った花飾り。強い生命力を感じる。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 713,
+  "no": "713",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 714,
+  "no": "714",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 715,
+  "no": "715",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 716,
+  "no": "716",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 717,
+  "no": "717",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 718,
+  "no": "718",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 719,
+  "no": "719",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 720,
+  "no": "720",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 721,
+  "no": "721",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 722,
+  "no": "722",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 723,
+  "no": "723",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 724,
+  "no": "724",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 725,
+  "no": "725",
+  "name": "命の霊薬",
+  "name_budget_bytes": 8,
+  "efx": "MAX HP +100",
+  "efx_budget_bytes": 11,
+  "comment": "特殊な製法で作られる古の霊薬。HPの最大値が100増える。",
+  "comment_budget_bytes": 53
+ },
+ {
+  "idx": 726,
+  "no": "726",
+  "name": "力の霊薬",
+  "name_budget_bytes": 8,
+  "efx": "STR +3",
+  "efx_budget_bytes": 6,
+  "comment": "特殊な製法で作られる古の霊薬。STRの最大値が3増える。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 727,
+  "no": "727",
+  "name": "守の霊薬",
+  "name_budget_bytes": 8,
+  "efx": "DEF +3",
+  "efx_budget_bytes": 6,
+  "comment": "特殊な製法で作られる古の霊薬。DEFの最大値が3増える。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 728,
+  "no": "728",
+  "name": "シールドトローチ",
+  "name_budget_bytes": 16,
+  "efx": "一定時間 DEF 上昇",
+  "efx_budget_bytes": 17,
+  "comment": "一定時間、敵から受けるダメージが減少する錠剤。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 729,
+  "no": "729",
+  "name": "スキルトローチ",
+  "name_budget_bytes": 14,
+  "efx": "一定時間 SP 回復",
+  "efx_budget_bytes": 16,
+  "comment": "一定時間、徐々にSPが上昇する錠剤。",
+  "comment_budget_bytes": 34
+ },
+ {
+  "idx": 730,
+  "no": "730",
+  "name": "エニグマトローチ",
+  "name_budget_bytes": 16,
+  "efx": "一定時間 ？？？",
+  "efx_budget_bytes": 15,
+  "comment": "何が起こるか使ってみるまで分からない錠剤。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 731,
+  "no": "731",
+  "name": "ヒールトローチ",
+  "name_budget_bytes": 14,
+  "efx": "一定時間 HP 回復",
+  "efx_budget_bytes": 16,
+  "comment": "一定時間、徐々にHPが回復する錠剤。",
+  "comment_budget_bytes": 34
+ },
+ {
+  "idx": 732,
+  "no": "732",
+  "name": "パワートローチ",
+  "name_budget_bytes": 14,
+  "efx": "一定時間 STR 上昇",
+  "efx_budget_bytes": 17,
+  "comment": "一定時間、敵に与えるダメージが増加する錠剤。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 733,
+  "no": "733",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 734,
+  "no": "734",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 735,
+  "no": "735",
+  "name": "聖魔の首輪",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "ルーに変身する。ルーと会話できるほか、敵に狙われなくなる。",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 736,
+  "no": "736",
+  "name": "小人の腕輪",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "小人になって小さな通路を通ることができる。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 737,
+  "no": "737",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 738,
+  "no": "738",
+  "name": "水竜の鱗",
+  "name_budget_bytes": 8,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "水中で呼吸が可能になり、潜水できるようになる。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 739,
+  "no": "739",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 740,
+  "no": "740",
+  "name": "疾風の靴",
+  "name_budget_bytes": 8,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "×ボタンでダッシュする。特定の坂を駆け上がることもできる。",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 741,
+  "no": "741",
+  "name": "獣王の篭手",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "×ボタンで前方にタックルし、もろい壁や岩盤を破壊する。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 742,
+  "no": "742",
+  "name": "精霊の衣",
+  "name_budget_bytes": 8,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "立ち止まったときにHPを自動で回復する。",
+  "comment_budget_bytes": 38
+ },
+ {
+  "idx": 743,
+  "no": "743",
+  "name": "闘神の刻印",
+  "name_budget_bytes": 10,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "EXTRAゲージの上昇量をアップする。",
+  "comment_budget_bytes": 33
+ },
+ {
+  "idx": 744,
+  "no": "744",
+  "name": "風魔の壷",
+  "name_budget_bytes": 8,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "ドロップアイテムを引き寄せることができる。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 745,
+  "no": "745",
+  "name": "石炭",
+  "name_budget_bytes": 4,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "どこにでもある石炭。精錬を行う際の燃料にすることができる。",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 746,
+  "no": "746",
+  "name": "鉄鉱石",
+  "name_budget_bytes": 6,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "無骨な鋼鉄の鉱石。精錬することで真の価値が生まれる。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 747,
+  "no": "747",
+  "name": "銀鉱石",
+  "name_budget_bytes": 6,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "鈍い光を放つ鉱石。精錬することができる。",
+  "comment_budget_bytes": 40
+ },
+ {
+  "idx": 748,
+  "no": "748",
+  "name": "金鉱石",
+  "name_budget_bytes": 6,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "気品ある輝きを放つ鉱石。精錬することができる。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 749,
+  "no": "749",
+  "name": "緑晶石",
+  "name_budget_bytes": 6,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "緑色の原石。精錬することで真の価値が見出せる。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 750,
+  "no": "750",
+  "name": "黄晶石",
+  "name_budget_bytes": 6,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "黄色の原石。精錬することで真の価値が見出せる。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 751,
+  "no": "751",
+  "name": "紅晶石",
+  "name_budget_bytes": 6,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "紅色の原石。精錬することで真の価値が見出せる。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 752,
+  "no": "752",
+  "name": "蒼晶石",
+  "name_budget_bytes": 6,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "蒼色の原石。精錬することで真の価値が見出せる。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 753,
+  "no": "753",
+  "name": "紫雲石",
+  "name_budget_bytes": 6,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "紫色の原石。精錬することで真の価値が見出せる。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 754,
+  "no": "754",
+  "name": "黒雲石",
+  "name_budget_bytes": 6,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "黒色の原石。精錬することで真の価値が見出せる。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 755,
+  "no": "755",
+  "name": "星光石",
+  "name_budget_bytes": 6,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "星のように煌く原石。精錬することができる。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 756,
+  "no": "756",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 757,
+  "no": "757",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 758,
+  "no": "758",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 759,
+  "no": "759",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 760,
+  "no": "760",
+  "name": "鉄塊",
+  "name_budget_bytes": 4,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "様々な鉄製品の材料となる、鋼鉄のインゴット。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 761,
+  "no": "761",
+  "name": "銀塊",
+  "name_budget_bytes": 4,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "鈍く光る銀のインゴット。魔を退けるとも言われている。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 762,
+  "no": "762",
+  "name": "金塊",
+  "name_budget_bytes": 4,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "古来より欲の象徴とされる、純度の高い黄金のインゴット。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 763,
+  "no": "763",
+  "name": "エメラルド",
+  "name_budget_bytes": 10,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "鮮やかな翠色に透き通った光沢のある宝石。",
+  "comment_budget_bytes": 40
+ },
+ {
+  "idx": 764,
+  "no": "764",
+  "name": "トパーズ",
+  "name_budget_bytes": 8,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "黄色の鉱物の中でも、装飾品となる美しい宝石。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 765,
+  "no": "765",
+  "name": "ルビー",
+  "name_budget_bytes": 6,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "鋼玉の一種で、情熱的な紅色に輝く宝石。",
+  "comment_budget_bytes": 38
+ },
+ {
+  "idx": 766,
+  "no": "766",
+  "name": "サファイア",
+  "name_budget_bytes": 10,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "海を思わせる爽やかな蒼色の宝石。鋼玉の一種。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 767,
+  "no": "767",
+  "name": "アメジスト",
+  "name_budget_bytes": 10,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "微量の混合物により紫色に輝く水晶。占術などにも使われる。",
+  "comment_budget_bytes": 56
+ },
+ {
+  "idx": 768,
+  "no": "768",
+  "name": "オニキス",
+  "name_budget_bytes": 8,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "魔除けとしても用いられる、曇りなき漆黒の石。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 769,
+  "no": "769",
+  "name": "ダイヤモンド",
+  "name_budget_bytes": 12,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "極めて高い硬度を持つ宝石。光を屈折し暗闇でも輝く。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 770,
+  "no": "770",
+  "name": "金の台座",
+  "name_budget_bytes": 8,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "古代の財宝を模して作られた、メッキ加工の金属製品。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 771,
+  "no": "771",
+  "name": "金の台座",
+  "name_budget_bytes": 8,
+  "efx": "鉱物素材",
+  "efx_budget_bytes": 8,
+  "comment": "淀みなく輝く純金製の古代の財宝。様々ないわくつきの品。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 772,
+  "no": "772",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 773,
+  "no": "773",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 774,
+  "no": "774",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 775,
+  "no": "775",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 776,
+  "no": "776",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 777,
+  "no": "777",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 778,
+  "no": "778",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 779,
+  "no": "779",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 780,
+  "no": "780",
+  "name": "傷んだ骨",
+  "name_budget_bytes": 8,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "脆くなった骨。交換に使うことができる。",
+  "comment_budget_bytes": 38
+ },
+ {
+  "idx": 781,
+  "no": "781",
+  "name": "傷んだ皮",
+  "name_budget_bytes": 8,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "千切れかけた獣の皮。交換に使うことができる。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 782,
+  "no": "782",
+  "name": "傷んだ殻",
+  "name_budget_bytes": 8,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "ヒビの入ってしまった甲殻。交換に使うことができる。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 783,
+  "no": "783",
+  "name": "傷んだ毛",
+  "name_budget_bytes": 8,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "艶のまったくない毛。交換に使うことができる。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 784,
+  "no": "784",
+  "name": "にごった粘液",
+  "name_budget_bytes": 12,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "不純物が混じった液体。交換に使うことができる。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 785,
+  "no": "785",
+  "name": "奇妙な塊",
+  "name_budget_bytes": 8,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "なんとも形容し難い物体。交換に使うことができる。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 786,
+  "no": "786",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 787,
+  "no": "787",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 788,
+  "no": "788",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 789,
+  "no": "789",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 790,
+  "no": "790",
+  "name": "丈夫な骨",
+  "name_budget_bytes": 8,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "密度の高いがっしりとした骨。",
+  "comment_budget_bytes": 28
+ },
+ {
+  "idx": 791,
+  "no": "791",
+  "name": "丈夫な皮",
+  "name_budget_bytes": 8,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "なめすと様々な用途に使える丈夫な皮。",
+  "comment_budget_bytes": 36
+ },
+ {
+  "idx": 792,
+  "no": "792",
+  "name": "丈夫な殻",
+  "name_budget_bytes": 8,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "鋼鉄に決して劣らない硬度を持つ甲殻。",
+  "comment_budget_bytes": 36
+ },
+ {
+  "idx": 793,
+  "no": "793",
+  "name": "丈夫な毛",
+  "name_budget_bytes": 8,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "柔軟さと強靭さをあわせ持った毛の束。",
+  "comment_budget_bytes": 36
+ },
+ {
+  "idx": 794,
+  "no": "794",
+  "name": "透き通った粘液",
+  "name_budget_bytes": 14,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "透明度の高い粘液。加工次第で飲用もできる。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 795,
+  "no": "795",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 796,
+  "no": "796",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 797,
+  "no": "797",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 798,
+  "no": "798",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 799,
+  "no": "799",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 800,
+  "no": "800",
+  "name": "毒袋",
+  "name_budget_bytes": 4,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "毒を持つ生物の体内器官。扱いに注意が必要。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 801,
+  "no": "801",
+  "name": "蜘蛛の糸",
+  "name_budget_bytes": 8,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "蜘蛛が獲物を捕らえるのに使う粘着性の高い糸。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 802,
+  "no": "802",
+  "name": "凶獣の牙",
+  "name_budget_bytes": 8,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "多くの獲物の肉を捉えた獰猛な獣の牙。",
+  "comment_budget_bytes": 36
+ },
+ {
+  "idx": 803,
+  "no": "803",
+  "name": "金剛殻",
+  "name_budget_bytes": 6,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "ダイヤモンドのように硬い殻。キズ一つつけられない。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 804,
+  "no": "804",
+  "name": "超硬鱗",
+  "name_budget_bytes": 6,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "あまりにも高い硬度を持つ、何枚にも連なった鱗。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 805,
+  "no": "805",
+  "name": "カエルエキス",
+  "name_budget_bytes": 12,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "カエルから取れる体液。滋養効果があるという。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 806,
+  "no": "806",
+  "name": "すべすべファー",
+  "name_budget_bytes": 14,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "よく手入れされた髪のように艶やかで美しい毛皮。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 807,
+  "no": "807",
+  "name": "もこもこファー",
+  "name_budget_bytes": 14,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "もこもこ、ふわふわな毛皮。雲のような至高の手触り。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 808,
+  "no": "808",
+  "name": "暴獣の爪",
+  "name_budget_bytes": 8,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "数多の戦いに打ち勝ってきた歴戦の獣の爪。",
+  "comment_budget_bytes": 40
+ },
+ {
+  "idx": 809,
+  "no": "809",
+  "name": "怪魔の厚皮",
+  "name_budget_bytes": 10,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "他の生き物のものとは一線を画す、禍々しい魔物の皮。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 810,
+  "no": "810",
+  "name": "強酸辛苦液",
+  "name_budget_bytes": 10,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "舌が痺れるほどの強烈な液体。秘薬の材料となる。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 811,
+  "no": "811",
+  "name": "不浄の粘菌",
+  "name_budget_bytes": 10,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "呪術に、転じて呪い返しにも用いられる禁じられた菌類。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 812,
+  "no": "812",
+  "name": "盤古の骨",
+  "name_budget_bytes": 8,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "太古の力を感じさせる、巨大な獣の骨。",
+  "comment_budget_bytes": 36
+ },
+ {
+  "idx": 813,
+  "no": "813",
+  "name": "蛮族の布",
+  "name_budget_bytes": 8,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "樹海の先住民たる蛮族に伝わる、刺繍が施された布。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 814,
+  "no": "814",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 815,
+  "no": "815",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 816,
+  "no": "816",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 817,
+  "no": "817",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 818,
+  "no": "818",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 819,
+  "no": "819",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 820,
+  "no": "820",
+  "name": "アックステイル",
+  "name_budget_bytes": 14,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "戦斧のように進化した、獲物を真っ二つにする尻尾。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 821,
+  "no": "821",
+  "name": "戦牛の巨角",
+  "name_budget_bytes": 10,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "獰猛な野牛の頭から生えていた、岩をも砕く巨大な角。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 822,
+  "no": "822",
+  "name": "猿王の赤髪",
+  "name_budget_bytes": 10,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "樹海を根城とする、猿人たちの王を屠った証。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 823,
+  "no": "823",
+  "name": "重猪の面殻",
+  "name_budget_bytes": 10,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "幾度もの突進から頭部を護る、兜の如き外骨格。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 824,
+  "no": "824",
+  "name": "クチバシハンマー",
+  "name_budget_bytes": 16,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "大槌のような迫力で振り回される怪鳥のクチバシ。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 825,
+  "no": "825",
+  "name": "夜魔の鉤爪",
+  "name_budget_bytes": 10,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "捕えた獲物を決して逃がさない、異形の魔物の鉤爪。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 826,
+  "no": "826",
+  "name": "腐海亀の甲羅",
+  "name_budget_bytes": 12,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "瘴気を吐く魔物の甲羅。正体不明の材質でできている。",
+  "comment_budget_bytes": 50
+ },
+ {
+  "idx": 827,
+  "no": "827",
+  "name": "氷蟲の尖鋼角",
+  "name_budget_bytes": 12,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "凍てついた地層をも掘り進む、ダイヤモンドより硬い角。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 828,
+  "no": "828",
+  "name": "クチバシドリル",
+  "name_budget_bytes": 14,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "螺旋状のクチバシ。鋼鉄をも穿ち粉々に破壊する。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 829,
+  "no": "829",
+  "name": "呪いの暗黒刃",
+  "name_budget_bytes": 12,
+  "efx": "獣素材",
+  "efx_budget_bytes": 6,
+  "comment": "異形の魔物が持つ、全てを切り刻む暗黒の刃。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 830,
+  "no": "830",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 831,
+  "no": "831",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 832,
+  "no": "832",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 833,
+  "no": "833",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 834,
+  "no": "834",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 835,
+  "no": "835",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 836,
+  "no": "836",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 837,
+  "no": "837",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 838,
+  "no": "838",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 839,
+  "no": "839",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 840,
+  "no": "840",
+  "name": "傷んだ木",
+  "name_budget_bytes": 8,
+  "efx": "植物素材",
+  "efx_budget_bytes": 8,
+  "comment": "ボロボロになった木。交換に使うことができる。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 841,
+  "no": "841",
+  "name": "傷んだ葉",
+  "name_budget_bytes": 8,
+  "efx": "植物素材",
+  "efx_budget_bytes": 8,
+  "comment": "枯れかけの葉っぱ。交換に使うことができる。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 842,
+  "no": "842",
+  "name": "傷んだ花",
+  "name_budget_bytes": 8,
+  "efx": "植物素材",
+  "efx_budget_bytes": 8,
+  "comment": "しなびて元気のない花。交換に使うことができる。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 843,
+  "no": "843",
+  "name": "傷んだ果実",
+  "name_budget_bytes": 10,
+  "efx": "植物素材",
+  "efx_budget_bytes": 8,
+  "comment": "痛んで腐りかけの果実。交換に使うことができる。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 844,
+  "no": "844",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 845,
+  "no": "845",
+  "name": "丈夫な木",
+  "name_budget_bytes": 8,
+  "efx": "植物素材",
+  "efx_budget_bytes": 8,
+  "comment": "どっしりとして健康的な木。木材として活用できる。",
+  "comment_budget_bytes": 48
+ },
+ {
+  "idx": 846,
+  "no": "846",
+  "name": "闇夜茸",
+  "name_budget_bytes": 6,
+  "efx": "植物素材",
+  "efx_budget_bytes": 8,
+  "comment": "闇の中でしか繁殖しないといわれる貴重なキノコ。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 847,
+  "no": "847",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 848,
+  "no": "848",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 849,
+  "no": "849",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 850,
+  "no": "850",
+  "name": "みずみずしい葉",
+  "name_budget_bytes": 14,
+  "efx": "植物素材",
+  "efx_budget_bytes": 8,
+  "comment": "樹海の恵みを受けたみずみずしい葉。薬効がある。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 851,
+  "no": "851",
+  "name": "ロダの葉",
+  "name_budget_bytes": 8,
+  "efx": "植物素材",
+  "efx_budget_bytes": 8,
+  "comment": "貴重な精霊樹の葉。一枚一枚に途轍もない生命力が宿る。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 852,
+  "no": "852",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 853,
+  "no": "853",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 854,
+  "no": "854",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 855,
+  "no": "855",
+  "name": "マールの花",
+  "name_budget_bytes": 10,
+  "efx": "植物素材",
+  "efx_budget_bytes": 8,
+  "comment": "ピンクの花弁をつける花。疲労を癒す蜜が詰まっている。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 856,
+  "no": "856",
+  "name": "ユペルの花",
+  "name_budget_bytes": 10,
+  "efx": "植物素材",
+  "efx_budget_bytes": 8,
+  "comment": "樹海に咲く黄色い花。花弁には解毒作用がある。",
+  "comment_budget_bytes": 44
+ },
+ {
+  "idx": 857,
+  "no": "857",
+  "name": "リブラの花",
+  "name_budget_bytes": 10,
+  "efx": "植物素材",
+  "efx_budget_bytes": 8,
+  "comment": "清浄を象徴する水色の花。多様な薬効をもたらすという。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 858,
+  "no": "858",
+  "name": "セルセタの花",
+  "name_budget_bytes": 12,
+  "efx": "植物素材",
+  "efx_budget_bytes": 8,
+  "comment": "セルセタ原産の貴重な花。素晴らしい秘薬の材料になるという。",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 859,
+  "no": "859",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 860,
+  "no": "860",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 861,
+  "no": "861",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 862,
+  "no": "862",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 863,
+  "no": "863",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 864,
+  "no": "864",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 865,
+  "no": "865",
+  "name": "チトの実",
+  "name_budget_bytes": 8,
+  "efx": "植物素材",
+  "efx_budget_bytes": 8,
+  "comment": "様々な地方で見られる栄養価の高い木の実。",
+  "comment_budget_bytes": 40
+ },
+ {
+  "idx": 866,
+  "no": "866",
+  "name": "ラパロの実",
+  "name_budget_bytes": 10,
+  "efx": "植物素材",
+  "efx_budget_bytes": 8,
+  "comment": "爽やかな瑞々しさと甘酸っぱさが魅力の果実。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 867,
+  "no": "867",
+  "name": "アリエダの実",
+  "name_budget_bytes": 12,
+  "efx": "植物素材",
+  "efx_budget_bytes": 8,
+  "comment": "時々ピリッとする独特な風味が特徴の果実。",
+  "comment_budget_bytes": 40
+ },
+ {
+  "idx": 868,
+  "no": "868",
+  "name": "ロダの実",
+  "name_budget_bytes": 8,
+  "efx": "植物素材",
+  "efx_budget_bytes": 8,
+  "comment": "精霊樹の果実。甘美な味で、絶大な滋養回復効果がある。",
+  "comment_budget_bytes": 52
+ },
+ {
+  "idx": 869,
+  "no": "869",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 870,
+  "no": "870",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 871,
+  "no": "871",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 872,
+  "no": "872",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 873,
+  "no": "873",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 874,
+  "no": "874",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "■■■■■■■■■■■■■■■■■■■■■■■■■□■■□",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 875,
+  "no": "875",
+  "name": "小人の腕輪�U",
+  "name_budget_bytes": 12,
+  "efx": "開放効果：STR / DEF が低下しない",
+  "efx_budget_bytes": 32,
+  "comment": "小人になって小さな通路を通ることができる。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 876,
+  "no": "876",
+  "name": "水竜の鱗�U",
+  "name_budget_bytes": 10,
+  "efx": "開放効果：水中での与ダメージ増加",
+  "efx_budget_bytes": 32,
+  "comment": "水中で呼吸が可能になり、潜水できるようになる。",
+  "comment_budget_bytes": 46
+ },
+ {
+  "idx": 877,
+  "no": "877",
+  "name": "疾風の靴�U",
+  "name_budget_bytes": 10,
+  "efx": "開放効果：ダッシュ中に敵を弾き飛ばす",
+  "efx_budget_bytes": 36,
+  "comment": "×ボタンでダッシュする。特定の坂を駆け上がることもできる。",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 878,
+  "no": "878",
+  "name": "獣王の篭手�U",
+  "name_budget_bytes": 12,
+  "efx": "開放効果：タックルのダメージ増加",
+  "efx_budget_bytes": 32,
+  "comment": "×ボタンで前方にタックルし、もろい壁や岩盤を破壊する。",
+  "comment_budget_bytes": 54
+ },
+ {
+  "idx": 879,
+  "no": "879",
+  "name": "聖魔の首輪�U",
+  "name_budget_bytes": 12,
+  "efx": "開放効果：ルー状態での移動速度上昇",
+  "efx_budget_bytes": 34,
+  "comment": "ルーに変身する。ルーと会話できるほか、敵に狙われなくなる。",
+  "comment_budget_bytes": 58
+ },
+ {
+  "idx": 880,
+  "no": "880",
+  "name": "精霊の衣�U",
+  "name_budget_bytes": 10,
+  "efx": "開放効果：HP回復量増加",
+  "efx_budget_bytes": 22,
+  "comment": "立ち止まったときにHPを自動で回復する。",
+  "comment_budget_bytes": 38
+ },
+ {
+  "idx": 881,
+  "no": "881",
+  "name": "闘神の刻印�U",
+  "name_budget_bytes": 12,
+  "efx": "開放効果：EXTRAゲージの上昇値増加",
+  "efx_budget_bytes": 33,
+  "comment": "EXTRAゲージの上昇値をアップする。",
+  "comment_budget_bytes": 33
+ },
+ {
+  "idx": 882,
+  "no": "882",
+  "name": "風魔の壷�U",
+  "name_budget_bytes": 10,
+  "efx": "開放効果：時々Gold入手",
+  "efx_budget_bytes": 22,
+  "comment": "ドロップアイテムを引き寄せることができる。",
+  "comment_budget_bytes": 42
+ },
+ {
+  "idx": 883,
+  "no": "883",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 884,
+  "no": "884",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 885,
+  "no": "885",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 886,
+  "no": "886",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 887,
+  "no": "887",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 888,
+  "no": "888",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 889,
+  "no": "889",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 890,
+  "no": "890",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 891,
+  "no": "891",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 892,
+  "no": "892",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 893,
+  "no": "893",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 894,
+  "no": "894",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 895,
+  "no": "895",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 896,
+  "no": "896",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 897,
+  "no": "897",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 898,
+  "no": "898",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 899,
+  "no": "899",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 900,
+  "no": "900",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 901,
+  "no": "901",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 902,
+  "no": "902",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 903,
+  "no": "903",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 904,
+  "no": "904",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 905,
+  "no": "905",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 906,
+  "no": "906",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 907,
+  "no": "907",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 908,
+  "no": "908",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 909,
+  "no": "909",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 910,
+  "no": "910",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 911,
+  "no": "911",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 912,
+  "no": "912",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 913,
+  "no": "913",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 914,
+  "no": "914",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 915,
+  "no": "915",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 916,
+  "no": "916",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 917,
+  "no": "917",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 918,
+  "no": "918",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 919,
+  "no": "919",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 920,
+  "no": "920",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 921,
+  "no": "921",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 922,
+  "no": "922",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 923,
+  "no": "923",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 924,
+  "no": "924",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 925,
+  "no": "925",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 926,
+  "no": "926",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 927,
+  "no": "927",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 928,
+  "no": "928",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 929,
+  "no": "929",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 930,
+  "no": "930",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 931,
+  "no": "931",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 932,
+  "no": "932",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 933,
+  "no": "933",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 934,
+  "no": "934",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 935,
+  "no": "935",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 936,
+  "no": "936",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 937,
+  "no": "937",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 938,
+  "no": "938",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 939,
+  "no": "939",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 940,
+  "no": "940",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 941,
+  "no": "941",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 942,
+  "no": "942",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 943,
+  "no": "943",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 944,
+  "no": "944",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 945,
+  "no": "945",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 946,
+  "no": "946",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 947,
+  "no": "947",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 948,
+  "no": "948",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 949,
+  "no": "949",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 950,
+  "no": "950",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 951,
+  "no": "951",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 952,
+  "no": "952",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 953,
+  "no": "953",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 954,
+  "no": "954",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 955,
+  "no": "955",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 956,
+  "no": "956",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 957,
+  "no": "957",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 958,
+  "no": "958",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 959,
+  "no": "959",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 960,
+  "no": "960",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 961,
+  "no": "961",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 962,
+  "no": "962",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 963,
+  "no": "963",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 964,
+  "no": "964",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 965,
+  "no": "965",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 966,
+  "no": "966",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 967,
+  "no": "967",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 968,
+  "no": "968",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 969,
+  "no": "969",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 970,
+  "no": "970",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 971,
+  "no": "971",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 972,
+  "no": "972",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 973,
+  "no": "973",
+  "name": "カーナＬＶ３",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 974,
+  "no": "974",
+  "name": "カーナＬＶ１６",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 975,
+  "no": "975",
+  "name": "オズマＬＶ３",
+  "name_budget_bytes": 12,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 976,
+  "no": "976",
+  "name": "オズマＬＶ１５",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 977,
+  "no": "977",
+  "name": "カンリリカＬＶ３",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 978,
+  "no": "978",
+  "name": "カンリリカＬＶ１５",
+  "name_budget_bytes": 18,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 979,
+  "no": "979",
+  "name": "カンリリカＬＶ１６",
+  "name_budget_bytes": 18,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 980,
+  "no": "980",
+  "name": "フリーダＬＶ３",
+  "name_budget_bytes": 14,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 981,
+  "no": "981",
+  "name": "フリーダＬＶ１５",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 982,
+  "no": "982",
+  "name": "フリーダＬＶ１６",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 983,
+  "no": "983",
+  "name": "フリーダＬＶ２４",
+  "name_budget_bytes": 16,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 984,
+  "no": "984",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 985,
+  "no": "985",
+  "name": "----",
+  "name_budget_bytes": 4,
+  "efx": "",
+  "efx_budget_bytes": 0,
+  "comment": "----",
+  "comment_budget_bytes": 4
+ },
+ {
+  "idx": 986,
+  "no": "986",
+  "name": "◆呪いのイバヤ",
+  "name_budget_bytes": 14,
+  "efx": "呪い付与",
+  "efx_budget_bytes": 8,
+  "comment": "◆デバッグアイテム",
+  "comment_budget_bytes": 18
+ },
+ {
+  "idx": 987,
+  "no": "987",
+  "name": "◆不幸なバイヤー",
+  "name_budget_bytes": 16,
+  "efx": "不幸付与",
+  "efx_budget_bytes": 8,
+  "comment": "◆デバッグアイテム",
+  "comment_budget_bytes": 18
+ },
+ {
+  "idx": 988,
+  "no": "988",
+  "name": "◆加重ヤイバー",
+  "name_budget_bytes": 14,
+  "efx": "加重付与",
+  "efx_budget_bytes": 8,
+  "comment": "◆デバッグアイテム",
+  "comment_budget_bytes": 18
+ },
+ {
+  "idx": 989,
+  "no": "989",
+  "name": "◆凍結パパイヤ",
+  "name_budget_bytes": 14,
+  "efx": "凍結付与",
+  "efx_budget_bytes": 8,
+  "comment": "◆デバッグアイテム",
+  "comment_budget_bytes": 18
+ },
+ {
+  "idx": 990,
+  "no": "990",
+  "name": "◆燃焼ヤバイ",
+  "name_budget_bytes": 12,
+  "efx": "燃焼付与",
+  "efx_budget_bytes": 8,
+  "comment": "◆デバッグアイテム",
+  "comment_budget_bytes": 18
+ },
+ {
+  "idx": 991,
+  "no": "991",
+  "name": "◆麻痺のヤイバ",
+  "name_budget_bytes": 14,
+  "efx": "麻痺付与",
+  "efx_budget_bytes": 8,
+  "comment": "◆デバッグアイテム",
+  "comment_budget_bytes": 18
+ },
+ {
+  "idx": 992,
+  "no": "992",
+  "name": "◆毒の刃",
+  "name_budget_bytes": 8,
+  "efx": "毒付与",
+  "efx_budget_bytes": 6,
+  "comment": "◆デバッグアイテム",
+  "comment_budget_bytes": 18
+ },
+ {
+  "idx": 993,
+  "no": "993",
+  "name": "◆100%呪い",
+  "name_budget_bytes": 10,
+  "efx": "常に呪い",
+  "efx_budget_bytes": 8,
+  "comment": "◆デバッグアイテム",
+  "comment_budget_bytes": 18
+ },
+ {
+  "idx": 994,
+  "no": "994",
+  "name": "◆100%不幸",
+  "name_budget_bytes": 10,
+  "efx": "常に不幸",
+  "efx_budget_bytes": 8,
+  "comment": "◆デバッグアイテム",
+  "comment_budget_bytes": 18
+ },
+ {
+  "idx": 995,
+  "no": "995",
+  "name": "◆100%加重",
+  "name_budget_bytes": 10,
+  "efx": "常に加重",
+  "efx_budget_bytes": 8,
+  "comment": "◆デバッグアイテム",
+  "comment_budget_bytes": 18
+ },
+ {
+  "idx": 996,
+  "no": "996",
+  "name": "◆100%凍結",
+  "name_budget_bytes": 10,
+  "efx": "常に凍結",
+  "efx_budget_bytes": 8,
+  "comment": "◆デバッグアイテム",
+  "comment_budget_bytes": 18
+ },
+ {
+  "idx": 997,
+  "no": "997",
+  "name": "◆100%燃焼",
+  "name_budget_bytes": 10,
+  "efx": "常に燃焼",
+  "efx_budget_bytes": 8,
+  "comment": "◆デバッグアイテム",
+  "comment_budget_bytes": 18
+ },
+ {
+  "idx": 998,
+  "no": "998",
+  "name": "◆100%麻痺",
+  "name_budget_bytes": 10,
+  "efx": "常に麻痺",
+  "efx_budget_bytes": 8,
+  "comment": "◆デバッグアイテム",
+  "comment_budget_bytes": 18
+ },
+ {
+  "idx": 999,
+  "no": "999",
+  "name": "◆100%毒",
+  "name_budget_bytes": 8,
+  "efx": "常に毒",
+  "efx_budget_bytes": 6,
+  "comment": "◆デバッグアイテム",
+  "comment_budget_bytes": 18
+ }
+]
